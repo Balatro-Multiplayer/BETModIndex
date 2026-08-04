@@ -36,11 +36,16 @@ jobs:
           artifact=$(mktemp)
           cp dist/mods-index.json "$artifact"
 
+          # `git switch` (not `checkout`) deliberately -- checkout is ambiguous
+          # between a branch named `dist` and the local `dist/` output
+          # directory build_index.py just wrote
+          # ("fatal: 'dist' could be both a local file and a tracking
+          # branch"), switch only ever means a branch.
           if git ls-remote --exit-code --heads origin dist >/dev/null 2>&1; then
             git fetch origin dist
-            git checkout dist
+            git switch dist
           else
-            git checkout --orphan dist
+            git switch --orphan dist
             git rm -rf . >/dev/null 2>&1 || true
           fi
 

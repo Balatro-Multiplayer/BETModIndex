@@ -25,9 +25,9 @@ bet-overrides/<Author>@<ModName>/bet.json
 | Field | Type | Meaning |
 |---|---|---|
 | `allowedInRanked` | boolean | Whether this mod is allowed in ranked play. Defaults to `false` if never set. |
-| `sha256` | string | SHA-256 of the current `downloadURL` archive, hex-encoded. There's no hash field in upstream's `meta.json` at all, and `build-index.yml` deliberately does NOT fetch+hash every mod's archive on every build (slow, and most of the ~800 upstream mods will never be ranked-relevant) — curate this by hand for anything you actually mark `allowedInRanked`. |
-| `rankedNotes` | string | Free-text note shown to admins on the ranked-mod-profiles admin page. |
 | `categoryOverride` | string[] | Replaces upstream's `categories` in the built index, if upstream's own categorization is wrong/unhelpful for our purposes. |
+
+No hash field here — `build-index.yml` never carries a hash in `dist/mods-index.json` at all. `BalatroMultiplayerAPI-Server`'s `mods-sync.service.ts` computes SHA-256 itself, by fetching each mod's `latestDownloadUrl` directly, rather than trusting a value curated in this index (curated-by-hand hashes are easy to let go stale when a mod updates; a server-computed hash can't drift from what it's actually serving to the launcher).
 
 **2. Add a Bet-exclusive mod** (not in upstream's index at all):
 
@@ -38,13 +38,13 @@ bet-overrides/<Author>@<ModName>/description.md   # optional
 ```
 
 `build-index.yml` left-joins `mods/*` with `bet-overrides/*` by folder slug: an
-upstream-only folder gets `allowedInRanked: false` / no hash; an overlaid
-folder merges upstream's `meta.json` with this folder's `bet.json`; a
-`bet-overrides`-only folder (no matching `mods/` folder) is built entirely
-from its own `meta.json` + `bet.json`. See `.github/scripts/build_index.py`
-for the exact merge logic and `dist/mods-index.json`'s output shape (that
-file is what `BalatroMultiplayerServer`'s hourly sync job actually fetches
-— see that repo's `apps/server/src/features/mods/mods-sync.service.ts`).
+upstream-only folder gets `allowedInRanked: false`; an overlaid folder merges
+upstream's `meta.json` with this folder's `bet.json`; a `bet-overrides`-only
+folder (no matching `mods/` folder) is built entirely from its own
+`meta.json` + `bet.json`. See `.github/scripts/build_index.py` for the exact
+merge logic and `dist/mods-index.json`'s output shape (that file is what
+`BalatroMultiplayerAPI-Server`'s hourly sync job actually fetches — see that
+repo's `apps/server/src/features/mods/mods-sync.service.ts`).
 
 ## Example
 

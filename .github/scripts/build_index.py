@@ -65,7 +65,6 @@ def released_at_iso(meta: dict) -> str | None:
 
 def build_entry(slug: str, meta: dict, folder: Path, override: dict) -> dict:
     version = override.get("version") or meta.get("version")
-    sha256 = override.get("sha256")
     download_url = meta.get("downloadURL")
 
     return {
@@ -80,13 +79,14 @@ def build_entry(slug: str, meta: dict, folder: Path, override: dict) -> dict:
         "description": read_description(folder),
         "latestVersion": version,
         "latestDownloadUrl": download_url,
-        "latestSha256": sha256,
+        # No hash here -- BalatroMultiplayerAPI-Server's mods-sync.service.ts
+        # computes sha256 itself by fetching latestDownloadUrl, rather than
+        # trusting a value curated in this index. See bet-overrides/README.md.
         "allowedInRanked": bool(override.get("allowedInRanked", False)),
         "versions": (
             [
                 {
                     "version": version,
-                    "sha256": sha256,
                     "downloadUrl": download_url,
                     "releasedAt": released_at_iso(meta),
                 }
