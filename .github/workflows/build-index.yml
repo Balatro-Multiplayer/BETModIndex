@@ -1,0 +1,55 @@
+name: Build index
+
+# Combines mods/ (upstream) with bet-overrides/ (this fork's overlay) into one
+# dist/mods-index.json artifact and publishes it to a dedicated `dist` branch
+# -- a stable raw.githubusercontent.com URL BalatroMultiplayerServer's hourly
+# mods-sync.service.ts job fetches over plain HTTPS, no GitHub token or API
+# rate limit needed. Runs after every push to main, including the scheduled
+# upstream syncs from sync-upstream.yml.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build dist/mods-index.json
+        run: python3 .github/scripts/build_index.py
+
+      - name: Publish to dist branch
+        run: |
+          git config user.name "bet-sync-bot"
+          git config user.email "bet-sync-bot@users.noreply.github.com"
+
+          artifact=$(mktemp)
+          cp dist/mods-index.json "$artifact"
+
+          if git ls-remote --exit-code --heads origin dist >/dev/null 2>&1; then
+            git fetch origin dist
+            git checkout dist
+          else
+            git checkout --orphan dist
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          cp "$artifact" mods-index.json
+          git add mods-index.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Update mods-index.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push origin dist
+          fi

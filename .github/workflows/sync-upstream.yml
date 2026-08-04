@@ -1,0 +1,67 @@
+name: Sync upstream
+
+# Keeps this fork current with skyline69/balatro-mod-index. Runs daily, plus
+# on-demand. bet-overrides/ is a directory upstream never touches (see
+# bet-overrides/README.md), so this merge should be a clean fast-forward in
+# the overwhelming common case -- if it isn't (upstream rewrote history, or
+# somehow collided with bet-overrides/), fall back to opening a PR instead of
+# force-merging, so a real conflict gets human review rather than silently
+# breaking our overlay.
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git identity
+        run: |
+          git config user.name "bet-sync-bot"
+          git config user.email "bet-sync-bot@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/skyline69/balatro-mod-index.git
+
+      - name: Fetch upstream
+        run: git fetch upstream main
+
+      - name: Attempt fast-forward merge
+        id: merge
+        run: |
+          if git merge --ff-only upstream/main; then
+            echo "clean=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "clean=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push clean merge
+        if: steps.merge.outputs.clean == 'true'
+        run: git push origin HEAD:main
+
+      - name: Open a PR when the merge isn't a clean fast-forward
+        if: steps.merge.outputs.clean == 'false'
+        run: |
+          git merge --abort || true
+          branch="sync-upstream/$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$branch"
+          git merge --no-ff -X ours upstream/main -m "Non-fast-forward upstream sync -- needs review" || true
+          git push origin "$branch"
+          gh pr create \
+            --title "Non-fast-forward upstream sync -- needs review" \
+            --body "The scheduled upstream sync could not fast-forward cleanly. This usually means upstream rewrote history, or (far less likely) a path in bet-overrides/ collided with something upstream added. Review the diff before merging -- do not merge blindly." \
+            --base main \
+            --head "$branch"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
