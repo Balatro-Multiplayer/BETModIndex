@@ -27,11 +27,12 @@ OVERRIDES_DIR = REPO_ROOT / "bet-overrides"
 DIST_DIR = REPO_ROOT / "dist"
 OUTPUT_PATH = DIST_DIR / "mods-index.json"
 
-# Set once BETModIndex actually exists as a GitHub repo -- used to build
-# thumbnail URLs pointing at this repo's own raw content. Left as a placeholder
-# until then; mods-sync.service.ts treats a null thumbnailUrl as "no thumbnail",
-# not an error.
-RAW_BASE_URL: str | None = None  # e.g. "https://raw.githubusercontent.com/<org>/BETModIndex/main"
+# Used to build thumbnail URLs pointing at this repo's own raw content (on
+# `main`, where mods/*/thumbnail.jpg actually lives -- not `dist`, which only
+# ever holds mods-index.json). mods-sync.service.ts treats a null
+# thumbnailUrl as "no thumbnail", not an error, so this can be safely blanked
+# out again if this repo is ever forked further under a different name/org.
+RAW_BASE_URL: str | None = "https://raw.githubusercontent.com/Balatro-Multiplayer/BETModIndex/main"
 
 
 def read_json(path: Path) -> dict:

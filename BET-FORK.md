@@ -13,23 +13,19 @@ workflows, are Bet's own additions and deliberately live in paths upstream
 will never write to, specifically so future upstream syncs stay conflict-free.
 See `bet-overrides/README.md` for the actual override format.
 
-## One-time setup once this repo exists on GitHub
+## Status
 
-1. Create the fork as `<org>/BETModIndex` (or whatever name/org you actually
-   use -- update this doc and `.github/scripts/build_index.py`'s
-   `RAW_BASE_URL` placeholder to match).
-2. Push this local clone's history to it (`git remote add origin <url> && git
-   push origin main`). `upstream` should stay pointed at
-   `skyline69/balatro-mod-index`.
-3. `sync-upstream.yml` and `build-index.yml` both use the default
-   `GITHUB_TOKEN` (contents: write, pull-requests: write) -- no extra secrets
-   needed for the fork itself.
-4. After the first `build-index.yml` run, a `dist` branch will exist
-   containing `mods-index.json`. Set
-   `BET_MOD_INDEX_URL=https://raw.githubusercontent.com/<org>/BETModIndex/dist/mods-index.json`
-   in `BalatroMultiplayerServer`'s `apps/server/.env` (see that repo's
-   `src/env.ts` and `src/features/mods/mods-sync.service.ts`) -- its hourly
-   sync job no-ops with a log line until this is set.
+Live at `Balatro-Multiplayer/BETModIndex`. `upstream` stays pointed at
+`skyline69/balatro-mod-index`; `origin` is this fork. `sync-upstream.yml` and
+`build-index.yml` both use the default `GITHUB_TOKEN` (contents: write,
+pull-requests: write) -- no extra secrets needed for the fork itself.
+`build-index.yml` has run at least once, so a `dist` branch exists containing
+`mods-index.json`, fetchable at
+`https://raw.githubusercontent.com/Balatro-Multiplayer/BETModIndex/dist/mods-index.json`
+-- that's the value `BalatroMultiplayerAPI-Server`'s `apps/server/.env` sets
+`BET_MOD_INDEX_URL` to (see that repo's `.env.example`,
+`src/env.ts`, and `src/features/mods/mods-sync.service.ts` -- its hourly sync
+job no-ops with a log line if this is ever unset).
 
 ## Local testing
 
