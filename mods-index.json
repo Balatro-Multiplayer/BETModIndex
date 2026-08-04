@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T23:19:36.409072+00:00",
+  "generatedAt": "2026-08-04T23:28:47.000416+00:00",
   "mods": [
     {
       "id": "1RedOne@FickleFox",
@@ -206,7 +206,7 @@
       "description": "# Waifu Jokers\nTexture pack that replaces many joker faces with altered illustrations of waifu jokers<br><br>\n## Credits\nTexture mod originally made by [Gibovich](https://www.nexusmods.com/balatro/users/20767164) on [Nexus](https://www.nexusmods.com/balatro/mods/260)<br>\nUpdated by me ([AgentWill](https://github.com/AgentWill)) to work with [Malverk](https://github.com/Eremel/Malverk)\n## Art\nArt by [hosses21](https://x.com/hosses21) on twitter\n## Requirements\nRequires [Malverk](https://github.com/Eremel/Malverk)",
       "latestVersion": "711d45a",
       "latestDownloadUrl": "https://github.com/AgentWill/WaifuJokers/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "711d45a",
@@ -229,7 +229,7 @@
       "description": "Useful hotkeys for hand selection in Balatro!",
       "latestVersion": "2f0a91f",
       "latestDownloadUrl": "https://github.com/Agoraaa/FlushHotkeys/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "2f0a91f",
@@ -252,7 +252,7 @@
       "description": "# Aikoyori Paint Job\nRetextures specific Jokers.\n\nCurrently\n- Idol -> Hoshino Ai from Oshi no Ko\n- Egg -> [Instagram Egg](https://en.wikipedia.org/wiki/Instagram_egg)\n- Square Joker -> some Terrain from Minecraft\n\n**Requires Malverk**",
       "latestVersion": "df146e1",
       "latestDownloadUrl": "https://github.com/Aikoyori/Balatro_AikoPaintJob/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "df146e1",
@@ -298,7 +298,7 @@
       "description": "# Vocalatro\nEver want your face cards to be anime girls? Now you can with Vocalatro!\n\nFeaturing very obscure virtual singers like Hatsune Miku, Kasane Teto, KAFU and not so singer Neru \nand well known singers like Utane Uta, Kizuna Akari, and Elainor Forte!",
       "latestVersion": "0cf7086",
       "latestDownloadUrl": "https://github.com/Aikoyori/Vocalatro/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "0cf7086",
@@ -1052,7 +1052,7 @@
       "description": "# Dismiss discovery alerts with a click! \n\nDismissAlert makes it possible to dismiss the new discovery alert icons ( ! ) on the Main Menu, Pause menu and Collection menu with a single click<br>\n- Clicking the icon on the main menu or in the pause menu will dismiss all alert icons and mark the contents of all categories as read<br>\n- Clicking individual alert icons on the Collection page will only dismiss and mark the contents of that individual collection category<br>",
       "latestVersion": "v1.0.0",
       "latestDownloadUrl": "https://github.com/Breezebuilder/DismissAlert/releases/latest/download/DismissAlert.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.0.0",
@@ -1076,7 +1076,7 @@
       "description": "# Local time in-game! \n\nSystemClock adds a draggable, resizable, customisable clock to the game screen.<br>\nIt includes 5 editable presets and supports a variety of time formats, UI styles, and color options.<br>\nKeep track of time - don't fall into the Black Hole.",
       "latestVersion": "v1.7.1",
       "latestDownloadUrl": "https://github.com/Breezebuilder/SystemClock/releases/download/v1.7.1/SystemClock-v1.7.1.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.7.1",
@@ -1219,7 +1219,7 @@
       "description": "# Key Features\n\n- Dark versions of:\n\t- Playing Card Backs\n\t- Tarot Cards\n\t- Planet Cards\n\t-  Spectral Cards\n\t- Card Backs\n- All Jokers retextured to dark versions\n- Splash screen and backgrounds darkened\n- Custom suit colors\n- Custom tag textures\n- Custom booster pack textures\n- Custom voucher textures\n\n# How To Use\n\nTo use Balatro Dark Mode, you need to have **Malverk** installed. The pack contains two subpacks, a **Malverk** pack which contains the bulk of the textures and an **Extras** pack which contains small bits that are not supported by *Malverk*.",
       "latestVersion": "1.1.0",
       "latestDownloadUrl": "https://github.com/CarrotonMan/balatrodarkmode/releases/download/latest/balatroDarkMode.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1.1.0",
@@ -1265,7 +1265,7 @@
       "description": "# Balatrin Gaming Deck\nDeck design for Balatro cards inspired by [Ratatin Gaming](https://www.youtube.com/@RatatinGaming). Requires [Steamodded](https://github.com/Steamopollys/Steamodded).\n\n\nMade by [Celestin Gaming](https://x.com/CG64_oficial)",
       "latestVersion": "d1bc486",
       "latestDownloadUrl": "https://github.com/CelestinGaming/BalatrinGamingDeck/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "d1bc486",
@@ -1337,7 +1337,7 @@
       "description": "# Soup\n\nA simple mod that retextures the Shop sign to say Soup instead.",
       "latestVersion": "b362253",
       "latestDownloadUrl": "https://github.com/Catzzadilla/Soup/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "b362253",
@@ -1594,7 +1594,7 @@
       "description": "# Custom Suit Order\n\nAllows you to change the sort order of suits.",
       "latestVersion": "4ef065a",
       "latestDownloadUrl": "https://github.com/DigitalDetective47/suit-order/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "4ef065a",
@@ -1640,7 +1640,7 @@
       "description": "# Next Ante Preview\n\nShows a preview of the next ante on the Boss Blind's cash out screen, so that you don't have to always click Run Info after going into the shop.",
       "latestVersion": "86f76df",
       "latestDownloadUrl": "https://github.com/DigitalDetective47/next-ante-preview/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "86f76df",
@@ -1994,7 +1994,7 @@
       "description": "# Sticky Fingers\n\nAdds the mobile drag'n'drop controls to interact with consumables and Jokers to the PC game, making it more touchscreen friendly!",
       "latestVersion": "4a73d33",
       "latestDownloadUrl": "https://github.com/eramdam/sticky-fingers/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "4a73d33",
@@ -2018,7 +2018,7 @@
       "description": "# Galdur - An Enhanced Run Setup Tool\nGaldur sets out to improve the usability of the run setup screen. Once you begin to add decks and stakes, the default selector quickly becomes arduous to navigate. Galdur dramatically improves this experience.",
       "latestVersion": "b06e5a9",
       "latestDownloadUrl": "https://github.com/Eremel/Galdur/archive/refs/heads/master.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "b06e5a9",
@@ -2042,7 +2042,7 @@
       "description": "# Malverk - Manage Your Texture Packs\nMalverk is a mod designed to make managing your texture packs quick and easy. Using our intuitive texture selector page, you can select which of your texture packs to apply in an instant, and reorganise their priority by dragging the cards left and right. This makes it easy to combine partial texture packs to your preference.\nMalverk supports full and partial retextures to each object type in the game. Malverk supports the following objects: Joker, Tarot, Spectral, Planet, Voucher, Booster, Enhanced, Seal, Tag, Stake, Blind, Sticker, plus modded ConsumableTypes.\n\nYou can access Malverk through the in game option menu. Press the Textures button and you will be greeted with the Malverk UI.",
       "latestVersion": "90e448c",
       "latestDownloadUrl": "https://github.com/Eremel/Malverk/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "90e448c",
@@ -2722,7 +2722,7 @@
       "description": "# Balatro Gay-ifier\nTurns all \"Straight\" descriptions into \"Gay\" (english localization)",
       "latestVersion": "v1.0.0",
       "latestDownloadUrl": "https://github.com/GitNether/balagay/releases/download/v1.0.0/BalaGay.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.0.0",
@@ -2937,7 +2937,7 @@
       "description": "Clair Obscur: Expedition 33-themed face cards for your Balatro decks.\nIncludes High Contrast variant. \n\nPixel art by Haykira\nhttps://bsky.app/profile/haykira.bsky.social\nhttps://reddit.com/u/haykira\n\nHave fun!",
       "latestVersion": "20260215_114432",
       "latestDownloadUrl": "https://github.com/Haykira/balatro-expedition33-cards//releases/download/release/expedition33_deck.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "20260215_114432",
@@ -3032,7 +3032,7 @@
       "description": "# Condensed_UI\n\nPushes all UI elements into the left side and adds a tracker for the Ante's Blinds/Skip Tags",
       "latestVersion": "v1.5",
       "latestDownloadUrl": "https://github.com/Hoversquid/Condensed_UI/archive/refs/tags/v1.5.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.5",
@@ -3151,7 +3151,7 @@
       "description": "A Balatro mod that brings mobile version's touch controls as an API to PC/Mac.\n\nThere are 2 other mods - [Sticky Fingers](https://github.com/eramdam/sticky-fingers) and [MobileLikeDragging](https://github.com/jfmmm/BalatroMobileLikeDragging) - that already do the same thing. What sets this mod apart is that it provides a full-fledged API, allowing other mods to easily define new drag areas and/or use existing ones, all without a Pull Request hassle from Sticky Fingers or vanilla-hardcoded nature of MobileLikeDragging.\n\n# API Documentation: `SilkTouch.DragTarget`\n\n- **Required parameters:**\n\t- `key`\n- **Optional parameters** *(defaults)*:\n    - `moveable_t`: A string key to an existing drag area, or a table containing a Moveable setup\n        - Expects a string matching any of the following keys:\n        ```lua\n        G.DRAG_TARGETS = {\n            S_buy, -- Standard buy area (overlayed on G.jokers plus G.consumeables). Text varies depending on card type (Voucher, Booster or generic).\n            S_buy_and_use, -- Buy-and-use area (above G.deck). Used for consumables that can be used right after purchase.\n            C_sell, -- Consumable's sell area (overlayed on G.jokers).\n            J_sell, -- Joker's sell area (overlayed on G.consumeables).\n            C_use, -- Consumable's use area (above G.deck).\n            P_select, -- Select area (between G.jokers and G.hand). Used for selecting jokers and using planet cards in booster packs.\n            modprefix_key, -- A custom drag target, defined by a Moveable setup (more on that below).\n        }\n        ```\n        - Or, expects the following table format:\n        ```lua\n        {\n            moveable_t = {\n                x = {ref_table = \"G.jokers.T\", ref_value = \"x\"}, -- Standard usage with ref_table and ref_value.\n                y = {ref_table = \"G.jokers.T\", ref_value = \"y\", mod_value = -0.1}, -- Modify the result with a number.\n                w = {\n                    -- A more complicated case where you need to combine multiple references at once.\n                    -- There's a limit to operation_table: only pluses (+) and minuses (-) are supported.\n                    -- The example has been realigned to improve comprehensibility.\n                    ref_table = {\"G.consumeables.T\", \"G.consumeables.T\", \"G.jokers.T\"  },\n                    ref_value = {                 \"x\",                \"w\",          \"x\"},\n                    operation_table = {             \"+\",                \"-\"            },\n                },\n                h = {mod_value = 4.5}, -- Simply specify a number.\n            },\n        }\n        ```\n    - `text`: A function returning a table of localized texts\n        - Expects a function like this:\n        ```lua\n        {\n            text = function(card)\n                -- Example text for a joker or consumable\n                local buy_loc = copy_table(localize('ml_buy_target'))\n                buy_loc[#buy_loc+1] = '$'..card.cost\n                return buy_loc -- {\"Buy\", \"$3\"}\n            end\n        }\n        ```\n    - `colour = G.C.UI.TRANSPARENT_DARK` - The active colour for the drag area,\n    - `drag_condition`: A function to check if dragging a card shows the drag area or not\n        - Expects a function like this:\n        ```lua\n        {\n            drag_condition = function(card)\n                -- Example condition for consumable cards in a booster pack to reveal consumable's use area (except Planet cards)\n                return card.area and card.area == G.pack_cards and card.ability.consumeable and card.ability.set ~= 'Planet'\n            end\n        }\n        ```\n    - `active_check`: A function to check if releasing inside drag area may trigger `release_func` (more on that below)\n        - Expects a function like this:\n        ```lua\n        {\n            active_check = function(card)\n                -- Example condition for consumable cards to be useable or not\n                return card:can_use_consumeable()\n            end\n        }\n        ```\n    - `release_func`: A function to to perform an action when released inside drag area\n        - Expects a function like this:\n        ```lua\n        {\n            release_func = function(card)\n                -- Example action for using consumable cards\n                if card:can_use_consumeable() then\n                    G.FUNCS.use_card({config={ref_table = card}})\n                end\n            end\n        }\n        ```",
       "latestVersion": "1.2.5a",
       "latestDownloadUrl": "https://github.com/HuyTheKiller/SilkTouch/releases/latest/download/SilkTouch.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1.2.5a",
@@ -3174,7 +3174,7 @@
       "description": "# Vietnamese Balatro \ud83c\uddfb\ud83c\uddf3\nAdds Vietnamese localization to Balatro. See the in-game description to know which mods also support Vietnamese.",
       "latestVersion": "6479ad5",
       "latestDownloadUrl": "https://github.com/HuyTheKiller/VietnameseBalatro/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "6479ad5",
@@ -3432,7 +3432,7 @@
       "description": "# Flower Pot\nA mod that improves tracking and displaying of player stats. \n\n- \"Stats\" menu overhauled to allow the full showcase of Joker win counts, highest Poker Hand levels, and more. \n- Player stats can be saved to the \"Flower Pot - Stat Files\" folder in your save directory, both in .json and .csv format\n- More stats are added and tracked, such as Voucher wins and Joker records. \n\nDeveloped By: ItsFlowwey",
       "latestVersion": "b43b9f4",
       "latestDownloadUrl": "https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/master.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "b43b9f4",
@@ -3925,7 +3925,7 @@
       "description": "# Vortex\nA simple mod that removes the pixelation effect from Balatro's backgrounds!\n\n![Balatro Title Sceen with Vortex](https://i.imgur.com/OLAQ11v.jpeg)\n\nI've seen people post videos of the Balatro background without the pixelation effect, since a lot of people really like the look of it and wanted to use it as a desktop background, but for some reason no one had made an accessible mod for it. So here's this! There's almost nothing to it, this mod simply replaces the background shaders with an edited version that removes the pixelation effect.\nThis mod is compatible with any other mods that change the background colors, like [Cryptid](github.com/MathIsFun0/Cryptid) or [Cardsauce](https://github.com/BarrierTrio/Cardsauce).\nIf you wanna go crazy with making your own custom swirling balatro vortex desktop background, i reccomend getting [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) and [Cardsauce](https://github.com/BarrierTrio/Cardsauce) and setting the background colors to your liking, then hide the UI with H!",
       "latestVersion": "9bb708f",
       "latestDownloadUrl": "https://github.com/Kekulism/Vortex/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "9bb708f",
@@ -4067,7 +4067,7 @@
       "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)\nEnglish config\n\nIncludes configuration interface",
       "latestVersion": "8b98475",
       "latestDownloadUrl": "https://github.com/Kooluve/Better-Mouse-And-Gamepad/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "8b98475",
@@ -4184,7 +4184,7 @@
       "description": "# RWKarmaDeck\nA playing card resource pack that changes the design of cards to use Rain World's characters and karma system.\n\n## Dependencies\n- Steamodded (>=1.0.0~ALPHA-1404b) or higher",
       "latestVersion": "c2f5a2b",
       "latestDownloadUrl": "https://github.com/LawyerRed01/RW-Karma-Cards/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "c2f5a2b",
@@ -4371,7 +4371,7 @@
       "description": "# Celestial Funk\nFunk up your planets with this retro-inspired Texture Pack.\n\nIncludes the retexture of 12 Planets, 8 Celestial Packs, and Black Hole Spectral Card.\n\nRequires **Malverk**",
       "latestVersion": "0cd8f89",
       "latestDownloadUrl": "https://github.com/LimeEffy/Celestial-Funk/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "0cd8f89",
@@ -4463,7 +4463,7 @@
       "description": "# BalaQuints\n\nTexture pack for Balatro that changes some cards to characters from The Quintessential Quintuplets.\n\n## Includes\n\n- A retexture of all 5 Legendary jokers as the 5 Nakano sisters\n- A retexture of the Soul card\n- Translations for latin languages\n- More to come...\n\n---\n\nRequires **Malverk** to run.",
       "latestVersion": "v1.2",
       "latestDownloadUrl": "https://github.com/Luuumine/BalaQuints/releases/latest/download/BalaQuints.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.2",
@@ -4632,7 +4632,7 @@
       "description": "# Colorblind Seals\nThis is a texture replacement mod for the seals in Balatro. Because I am colorblind, I had a hard time differentiating between the blue and purple seals on the cards in hand, which led to discarding cards I should have kept and vice versa.\n\nThe textures for the seals are altered by this mod to all have unique shape for easier differentiation.\n\nRequires **Malverk**",
       "latestVersion": "6a10690",
       "latestDownloadUrl": "https://github.com/martinkauppinen/colorblind-seals/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "6a10690",
@@ -4727,7 +4727,7 @@
       "description": "# Trance\nA mod that lets you change Balatro's colors and font",
       "latestVersion": "fb86ebd",
       "latestDownloadUrl": "https://github.com/MathIsFun0/Trance/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "fb86ebd",
@@ -4842,7 +4842,7 @@
       "description": "See **Blinds** while shopping.",
       "latestVersion": "1.2.1",
       "latestDownloadUrl": "https://github.com/MeraGenio/UnBlind/archive/refs/tags/1.2.1.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1.2.1",
@@ -4935,7 +4935,7 @@
       "description": "Turns the mult cards rainbow.",
       "latestVersion": "ecedd96",
       "latestDownloadUrl": "https://github.com/Catzzadilla/LGBT-Mult-Cards/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "ecedd96",
@@ -5124,7 +5124,7 @@
       "description": "# Balatro: Dream BBQ Mod\n\nContent mod for Balatro based on ENA: Dream BBQ. Currently adds 40 Jokers and 2 Decks, and is at least intended to offer Vanilla-friendly balance... but no guarantees just yet.\n\nCompatible with the CardSleeves mod, and adds 2 Sleeves matching the 2 added decks.\n\nCompatible with JokerDisplay",
       "latestVersion": "f524b61",
       "latestDownloadUrl": "https://github.com/Noodlemire/Balatro-Dream-BBQ-Mod/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "f524b61",
@@ -5338,7 +5338,7 @@
       "description": "<h1 align=\"center\">Hunatro</h1>\n\n<h4 align=\"center\"><i>\"Ya see, as a love fairy, it's my job to help poor saps like you out with the <s>ladies</s> jokers. It's just, what I do. You though... Let's just say, you will be my greatest accomplishment yet.\"</i></h4>\n<h5 align=\"right\">~Kyu Sugardust</h5>\n\n<h5 align=\"center\">This mod changes textures, voice lines and dialogue to be HuniePop themed. Does not affect gameplay or disable acheivements.</h5>\n\n# Features\n- 24 Deck Skins\n- 89 Jokers\n- 30 Blinds (Dates)\n- 4 Seals\n- 4 Suits\n- 7 Deck Backs\n- 2 Vouchers\n- 3 Tarots\n- 2 Planets\n- 1 Spectral\n- 1 Enhancement\n\n# Notes:\nThis mod does **NOT** require [Malverk](https://github.com/Eremel/Malverk), but it is compatible with it and will add itself as a texture pack if [Malverk](https://github.com/Eremel/Malverk) is also installed.\n\n# Credits\nTextures modified from textures in **[Huniepop 2: Double Date](https://huniepop2doubledate.com/)** and **[Huniecam Studio](https://huniecamstudio.com/)** are used with permission from the developer. These textures are owned by **[Huniepot](https://huniepot.com/)**.\n\nCharms for Huniepop 1 and Huniecam Studio characters are by **[SilverwoodWorks](https://twitter.com/SilverwoodWork)**\n\nDevelopment and all other textures are by **[OneSuchKeeper](https://www.youtube.com/@onesuchkeeper8389)**",
       "latestVersion": "v1.1.2",
       "latestDownloadUrl": "https://github.com/onesuchkeeper/hunatro/releases/latest/download/hunatro.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.1.2",
@@ -5454,7 +5454,7 @@
       "description": "## Information\n\nThis mod makes the designs on the Consumables pop out of the card (Similarly to The Soul, Hologram, etc.)! Currently includes the Tarots, Planets, and Vouchers. Spectrals, Tags, Jokers(?) to come in a future update!\n\n## NOTE:\n\nSoulEverything requires [Malverk](https://github.com/Eremel/malverk).",
       "latestVersion": "38b5bdc",
       "latestDownloadUrl": "https://github.com/OppositeWolf770/SoulEverything/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "38b5bdc",
@@ -5735,7 +5735,7 @@
       "description": "Custom skins for deck featuring characters from game Oneshot! Art by Ar1gin\n\nHearts (Rue, Cedric and Niko)\n\nDiamonds (Prophetbot, Silver and Prototype)\n\nClubs (Lamplighter, George and Kip)\n\nSpades (Magpie, Alula and Calamus)",
       "latestVersion": "1.0.1",
       "latestDownloadUrl": "https://github.com/Pyromantis/OneShot-X-Balatro/releases/latest/download/OneShot.X.Balatro.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1.0.1",
@@ -5782,7 +5782,7 @@
       "description": "# Ghost Trick Skin Pack for Balatro\n\nA custom card skin mod for Balatro that replaces the face cards (Jack, Queen, King) with graphics inspired by the Ghost Trick: Phantom Detective video game.",
       "latestVersion": "31c46d3",
       "latestDownloadUrl": "https://github.com/RGTriforce/BalatroGhostTrickSkins/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "31c46d3",
@@ -6418,7 +6418,7 @@
       "description": "# Baldatro Mod for Balatro\n\nBaldatro is a mod that makes all the jokers bald, thats it, enjoy!\n\n## Features\n\n- **Makes almost all Jokers bald**: Thats it, not much to say.\n\n## Installation\n\nTo install the \"Baldatro\" mod, follow these steps:\n\n1. This mod requires [Steamodded](https://github.com/Steamodded/smods).\n2. Just the download the \"Baldatro-vx.zip\" file from releases of the mod and extract it in your C:\\Users\\<USER>\\AppData\\Roaming\\Balatro\\Mods or %appdata%\\Balatro\\Mods directory.\n\n## Support\n\nIf you encounter any problems or have questions, please open an issue in this repository. Feedback and suggestions are always appreciated!\n\nThank you for using or contributing to the Stickers Always Shown mod!\n\n## Contributors\n\nSpecial thanks to the mod contributors:\n\n- [@SirMaiquis](https://github.com/SirMaiquis) - Main developer and maintainer of the mod.",
       "latestVersion": "v1.2.0",
       "latestDownloadUrl": "https://github.com/SirMaiquis/Balatro-Baldatro/releases/latest/download/Baldatro.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v1.2.0",
@@ -6488,7 +6488,7 @@
       "description": "Handy - a lovely mod which adds new controls and keybinds to the game\ndesigned for faster and easier playing Vanilla and Modded Balatro.\n\n- Vanilla-friendly: no new run required; stability is priority, safe for use in base game and Multiplayer;\n- Works without Steamodded: but included supports for variety of different mods (NotJustYet, Nopeus, Cryptid);\n- Fast hand selection: highlight cards just by hovering them;\n- Keybinds for all vanilla buttons and actions: play, discard, hand sorting, cash out, shop reroll, view deck, and more;\n- Game speed: adjust game speed up to x512 in-run;\n- Animation skip: instant scoring and removing unnecessary animations to speedup game even further;\n- Quick Buy/Sell/Use: controls to buy, sell or use cards faster;\n- Selection movement: more precise management on large amoung of jokers or consumables;\n- Full control: each feature can be disabled/enabled individually, each keybind can be reassigned to any keyboard or mouse button;\n- Gamepad support: most features can be used with gamepad aswell;\n- Presets: save up to 3 mod settings layouts and switch between them in-run to have more freedom with limited amount of buttons;\n- ...and more!",
       "latestVersion": "c65713d",
       "latestDownloadUrl": "https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "c65713d",
@@ -7286,7 +7286,7 @@
       "description": "# Riff-Raffling\nA Balatro challenge mod by UppedHealer8521.\n\nUses Steamodded (incompatible with Balamod).\n\n### Rules\nStart with negative eternal Riff-Raff.\n\nNo other ways of acquiring Jokers, limited ways of earning money.\n\n### Rules\nNo money at end of round, no shop jokers or buffoon packs.\n\n### Banned Cards\nJokers: Business Card, Egg, Faceless Joker, Golden Joker, Golden Ticket\n\nConsumables: Ankh, Judgement, The Soul, Wraith\n\nTags: Buffoon, Foil, Holographic, Negative, Polychrome, Rare, Uncommon\n\nVouchers: Seed Money / Money Tree",
       "latestVersion": "597baf7",
       "latestDownloadUrl": "https://github.com/UppedHealer8521/Riff-Raffling/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "597baf7",
@@ -8112,7 +8112,7 @@
       "description": "# toomanyjokers\nAdds a UI allowing for searching of cards.\n\n## Usage\nPress T to open TMJ.\n\nSearches are loosely matched against many aspects of every card.\n\nIf a card checked in the search matches those, it will show up.\n\nYou can use multiple search terms by using commas. Virtually unlimited search terms are supported.\n\nAll provided search terms must match with a card for the card to show. (e.g. `+mult, xmult` will only show jokers that give both xmult and +mult, not any joker that gives either)\n\n## Advanced uses\n\nThere are several special search terms, surrounded by braces (`{}`). These allow you to specify more about your search. They MUST come before any non-special terms.\n\n`{any}`\n\n{any} specifies that if ANY of the search terms are matched, a card will show up. Using the example above, `{any}, +mult, xmult` will show jokers that give either +mult or xmult.\n\n`{regex}`\n\n{regex} specifies that we should use Lua's pattern matcher instead of just a raw search. Keep in mind this is Lua patterns, not actual regex.\n\nAdditionally, any non-special search term can be prefixed with `!` to specify that you should NOT match that search term.\n\nA use of all these is as follows:\n\n`{any}, {regex}, legendary, cryptid, xmult.*hearts, !joker`\n\nExplanation: Any joker that is either legendary, is from cryptid, gives xmult AND has to do with hearts (assuming the xmult came first), or does not have \"joker\" anywhere in its properties.\n\nCredits to Dimserene for the idea to create this mod.",
       "latestVersion": "7613cbb",
       "latestDownloadUrl": "https://github.com/cg-223/toomanyjokers/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "7613cbb",
@@ -8233,7 +8233,7 @@
       "description": "# SealSeal\nAdds seals (the animal) for your seals (the stamp on your cards)!\n\nRecommended to be used with the mod Malverk but it can run without it.",
       "latestVersion": "1.1.0",
       "latestDownloadUrl": "https://github.com/colonthreeing/SealSealBalatro/releases/latest/download/SealSeal.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1.1.0",
@@ -8256,7 +8256,7 @@
       "description": "# glumbus\n\nMakes Lucky Cat into a picture of glumbus (sometimes erroniously referred to as glungus) the cat.",
       "latestVersion": "glumbus2.5whatever",
       "latestDownloadUrl": "https://github.com/colonthreeing/Glumbus/releases/latest/download/Glumbus.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "glumbus2.5whatever",
@@ -8613,7 +8613,7 @@
       "description": "# Slay the Jokers\nA mod that allows your viewers to hover over cards on your stream to see their effects and current values.\n\nHeads up! This mod requires additional setup steps before it can work.\n\nIf you need help or have suggestions feel free to contact me at itsedalo@gmail.com.\n\n## Setup Instructions\n- **Upload Key**: To use this mod, you'll need an upload key to the Slay the Jokers server.\n1. Acquire an `upload.key` file using **one** of the following methods:\n    - Email me at `itsedalo@gmail.com`\n        - Absolutely no need for anything formal or polite, you can just say `Hi, I'm <twitch name>, give me a key.`, word for word if you want. I'll try to send you the key quickly.\n    - Use the automated system at https://edalo.net/stj/get-key (you will need to verify your Twitch account to prove it's really you)\n        - This feature is new; if something fails, fall back to emailing me\n2. Place `upload.key` in the `Balatro` data directory (`%appdata%\\Balatro`)\n3. Launch Balatro and wait for it to fully load\n    - A black command window (part of `Lovely`) will appear - don't close it\n    - On first launch, it will automatically install required tools for this mod\n4. Enable the [extension](https://dashboard.twitch.tv/extensions/iaofk5k6d87u31z9uy2joje2fwn347) on your Twitch channel\n\n## Things to Know Before Installing\n- **Stream Overlays**: This mod currently only works correctly if the game is shown at a 16:9 resolution (like 1920x1080 / 4K / 8K) and **fills the entire visible area of the stream**. Overlays that crop or reposition the game may cause card positions to misalign.\n    - If that's a dealbreaker, feel free to contact me - I might be able to make it work for your setup.\n\n- **Windows Only**: This mod currently supports only **\\*Windows\\*** systems.\n\n- **Other Mods & Compatibility**: This mod should be compatible with most other mods.\n    - Compatible mods:\n        - Reskins, QoL mods, and other non-card-related mods should work in their entirety, but have not been tested (except for the [Handy](https://github.com/SleepyG11/HandyBalatro) mod, which was confirmed to work).\n        -  Mods that add new cards should generally work, aside from some potential minor formatting quirks. Among mods that were confirmed to work are [Extra Credit](https://github.com/GuilloryCraft/ExtraCredit), [Paperback](https://github.com/Balatro-Paperback/paperback), [Neato](https://github.com/neatoqueen/NeatoJokers), [Cryptid](https://github.com/MathIsFun0/Cryptid), and [The Balatro Multiplayer Mod](https://github.com/V-rtualized/BalatroMultiplayer).\n    - Incompatible mods:\n        - Mods that modify existing card effects are **not** compatible (the original card's effect will be shown instead).\n\n- **Disclaimer**: This mod is still under development, so some features might not work perfectly. If you encounter any issues, please let me know!\n    - *More formal disclaimer for meanies: this project is a hobby project, provided as-is, with no guarantees of stability, correctness, or suitability for any purpose. You're welcome to use it - but I take no responsibility if something goes wrong.*\n\n---\n\nIf anything is unclear or you run into issues, try referring to the [full installation guide](https://github.com/its-edalo/slay-the-jokers/blob/main/INSTALL.md).",
       "latestVersion": "V0.2.1",
       "latestDownloadUrl": "https://github.com/its-edalo/slay-the-jokers/archive/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "V0.2.1",
@@ -8730,7 +8730,7 @@
       "description": "a fully keyboard-driven UX mod for Balatro, with a bunch of QoL keybinds.\n\n## video demo\n\n<https://www.youtube.com/watch?v=k2l6-RqTk1c>\n\n## feature overview\n\n- toggling hand cards with `asdfgh...` keys\n- a complete implementation of every action in every game state, with\n  - `space` being generally the \"proceed\" button:\n    - it plays the selected hand\n    - selects the upcoming blind\n    - uses consumable cards\n    - selects the highlighted pack item\n    - starts a new run from the game over screen\n    - starts a run from the new run screen with the currently selected deck and stake\n  - `tab` being the dismiss button:\n    - it discards the selected hand\n    - moves from the shop to blind selection\n    - sells consumable or joker cards\n    - skips the current booster pack\n    - cycles `new run`, `continue` and `challenges` on the run setup screen\n    - closes any other overlay menu\n    - exits to main menu from the game over screen\n  - `escape` being the back button on the run setup screen:\n    - it closes the run setup overlay instead of cycling tabs\n  - the bottom row of the keyboard as the \"control panel\", for example:\n    - in rounds:\n      - hold `z` for the quick deck preview\n      - press `,` to select the leftmost 5 cards\n      - `.` to select the rightmost 5 cards\n      - `c` to sort by suit\n      - `v` to sort by rank\n      - `b` to sort by enhancement+score, where glass cards are moved to the end, and lucky and mult cards to the beginning\n    - in the shop:\n      - `c` to buy an item or a pack or a voucher\n      - `v` to buy and use an item, or buy a pack or a voucher\n    - `n` to deselect all cards in a cardarea and `m` to invert card selection in rounds\n    - `x` to view run info whenever it's available\n    - & others (see [`./mod/layout.lua`](https://github.com/kasimeka/balatro-typist-mod/blob/main/mod/layout.lua)) the full keymap as well as other layouts\nand the full keymap\n- cardarea keybind layers for selecting, moving, selling & using cards. these apply globally for\n  - consumables, accessed by holding `'`\n  - jokers, accessed by holding `[`\n  - a convenience jokers+consumables area accessed with the number row buttons and no leader key\n  - pack cards, with no leader key\n  - the shop, with no leader key\n  - the hand, which is accessed\n    - by holding `/` everywhere for selection and movement of a single card\n    - by holding `shift+/` for multiselect in booster packs\n    - with no leader key for multiselect in rounds\n- run setup keybinds\n  - `h` and `l` to change decks, `j` and `k` to change stakes\n  - `s` to toggle \"seeded run\" on and focus the seed input field, `escape` to disable seeded run\n  - `space` or `enter` to start a run with the selected options\n  - `tab` to cycle \"new run\", \"continue\" and \"challenges\" tabs\n- mnemonic keys for less frequent actions, like `s` to skip blinds, `r` to reroll the shop or boss, `b` in the cheat layer and the full keymap\n  - mnemonic keys for less frequent actions, like `s` to skip blinds, `r` to reroll the shop or boss, `b` in the cheat layer (accessed by holding `p`) to pick the best hand out the available cards, `f` in the cheat layer to fish for the best flush in hand, etc\n- cardarea keybind layers for selecting, moving, selling & using cards. these apply globally for\n  - consumables, accessed by holding `'`\n  - jokers, accessed by holding `[`\n  - pack cards, with no leader key\n  - the shop, with no leader key\n  - the hand, which is accessed\n    - by holding `/` everywhere for selection and movement of a single card\n    - by holding `shift+/` for multiselect in booster packs\n    - with no leader key for multiselect in rounds\n- support for `qwerty` and `dvorak` keyboard layouts, where positional keys are kept consistent across both layouts and mnemonic keys aren't changed. (e.g. `asdf` to toggle the first four cards in qwerty translates to `aoeu` in dvorak, but `r` to reroll the shop or the boss blind stays `r` in both layouts)\n- support for keybind overrides, so you can change the default keybinds to your liking\n- any key to skip the splash screen and `space` to click any \"play\" or \"continue\" button, so a run can be started from game launch until the first blind with the `space` button only",
       "latestVersion": "2.1.2",
       "latestDownloadUrl": "https://github.com/kasimeka/balatro-typist-mod/archive/refs/tags/2.1.2.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "2.1.2",
@@ -9206,7 +9206,7 @@
       "description": "# GigaJokers\n\n\nJokers discouvered mewing and turned into GigaJokers!\n\n\n\nIncludes the retexture of all 150 jokers allthough they're not all changed (approximately 80 of them have changes on their textures)\n\n\n\nREQUIRES [Malverk](https://github.com/Eremel/Malverk), otherwise, you can manually download the textures from the 1x and 2x folders and replace the base game textures with them.",
       "latestVersion": "94d58a7",
       "latestDownloadUrl": "https://github.com/r0maps/GigaJokers/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "94d58a7",
@@ -9416,7 +9416,7 @@
       "description": "Dynamically changes blueprint and brainstorm texture to the joker they are copying.",
       "latestVersion": "4e18c48",
       "latestDownloadUrl": "https://github.com/stupxd/Blueprint/archive/refs/heads/master.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "4e18c48",
@@ -9439,7 +9439,7 @@
       "description": "# Cartomancer\nBalatro mod with quality of life improvements and some small optimizations, mainly aimed for better experience with endless or heavily modded runs.\n\n## Features\n\n- Deck view customization (stack equal cards, hide already drawn cards).\n\n- Boss Blinds History.\n\n- Expand your jokers for easier management with >20 jokers.\n\n- Limit amount of cards shown in deck pile.\n\n- Scoring flames customization (intensity and volume).\n\n- and (maybe) more... \n\n## Settings\nMod has most of the features toggleable in settings menu. Without Steamodded it is located in Settings. Otherwise you can open it via Mods menu.",
       "latestVersion": "1c4ac70",
       "latestDownloadUrl": "https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "1c4ac70",
@@ -9933,7 +9933,7 @@
       "description": "# Colored Suit Tarots\nTexture pack for Balatro that colors the suit-changing Tarot cards to their respective suits.\n\nRequires **Malverk**",
       "latestVersion": "5cd04f6",
       "latestDownloadUrl": "https://github.com/ywssp/Balatro-ColoredSuitTarots/archive/refs/heads/main.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "5cd04f6",
