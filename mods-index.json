@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T23:28:47.000416+00:00",
+  "generatedAt": "2026-08-05T01:18:57.185391+00:00",
   "mods": [
     {
-      "id": "1RedOne@FickleFox",
+      "id": "FickleFox",
       "title": "Fickle Fox",
       "author": "1RedOne",
       "categories": [
@@ -27,9 +27,9 @@
       ]
     },
     {
-      "id": "ABGamma@Brainstorm-Rerolled",
+      "id": "Brainstorm-Rerolled",
       "title": "Brainstorm-Rerolled",
-      "author": "OceanRamen and ABGamma",
+      "author": "ABGamma",
       "categories": [
         "Content",
         "Technical",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "ABuffZucchini@GreenerJokers",
+      "id": "GreenerJokers",
       "title": "Greener Jokers",
       "author": "ABuffZucchini",
       "categories": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "id": "AMY@AMY'sWaifus",
+      "id": "AMY'sWaifus",
       "title": "AMY's Waifu",
       "author": "AMY",
       "categories": [
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "id": "ARandomTank7@Balajeweled",
+      "id": "Balajeweled",
       "title": "Balajeweled",
       "author": "ARandomTank7",
       "categories": [
@@ -122,9 +122,9 @@
       ]
     },
     {
-      "id": "AbsentAbigail@AbsentDealer",
+      "id": "AbsentDealer",
       "title": "Absent Dealer",
-      "author": "Absent Abigail",
+      "author": "AbsentAbigail",
       "categories": [
         "Content",
         "Joker"
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "id": "Agarpain@Agarmons",
+      "id": "Agarmons",
       "title": "Agarmons: A Pokermon Addon",
       "author": "Agarpain",
       "categories": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "id": "AgentWill@MikuJimbo",
+      "id": "MikuJimbo",
       "title": "Joker Miku over Jimbo",
       "author": "AgentWill",
       "categories": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "id": "AgentWill@WaifuJokers",
+      "id": "WaifuJokers",
       "title": "Waifu Jokers",
       "author": "AgentWill",
       "categories": [
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "id": "Agoraaa@FlushHotkeys",
+      "id": "FlushHotkeys",
       "title": "Flush Hotkeys",
       "author": "Agoraaa",
       "categories": [
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "id": "Aikoyori@AikoyoriPaintJob",
+      "id": "AikoyoriPaintJob",
       "title": "Aikoyori Paint Job",
       "author": "Aikoyori",
       "categories": [
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "id": "Aikoyori@Aikoyoris-Shenanigans",
+      "id": "Aikoyoris-Shenanigans",
       "title": "Aikoyori's Shenanigans",
       "author": "Aikoyori",
       "categories": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "id": "Aikoyori@Vocalatro",
+      "id": "Vocalatro",
       "title": "Vocalatro",
       "author": "Aikoyori",
       "categories": [
@@ -308,9 +308,9 @@
       ]
     },
     {
-      "id": "Alex@Mayhem",
+      "id": "Mayhem",
       "title": "Mayhem",
-      "author": "alex343xd",
+      "author": "Alex",
       "categories": [
         "Content",
         "Joker",
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "id": "AmazinDooD@ScrollableDescriptions",
+      "id": "ScrollableDescriptions",
       "title": "ScrollableDescriptions",
       "author": "AmazinDooD",
       "categories": [
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "id": "Amo@REW1RED",
+      "id": "REW1RED",
       "title": "REW1RED",
       "author": "Amo",
       "categories": [
@@ -381,9 +381,9 @@
       ]
     },
     {
-      "id": "AppleMania@Maniatro",
+      "id": "Maniatro",
       "title": "Maniatro",
-      "author": "Applemania",
+      "author": "AppleMania",
       "categories": [
         "Content"
       ],
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "id": "Arashi Fox@Arashicoolstuff",
+      "id": "Arashicoolstuff",
       "title": "Arashicoolstuff",
       "author": "Arashi Fox",
       "categories": [
@@ -427,9 +427,9 @@
       ]
     },
     {
-      "id": "Astrapboy@Mistigris",
+      "id": "Mistigris",
       "title": "Mistigris",
-      "author": "astrapboy",
+      "author": "Astrapboy",
       "categories": [
         "Content",
         "Joker"
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "id": "Aure@SixSuits",
+      "id": "SixSuits",
       "title": "Six Suits",
       "author": "Aure",
       "categories": [
@@ -474,9 +474,9 @@
       ]
     },
     {
-      "id": "AutoWatto@CollabsReimagined",
+      "id": "CollabsReimagined",
       "title": "Collabs Reimagined",
-      "author": "Auto Watto & RS_Mind",
+      "author": "AutoWatto",
       "categories": [
         "Resource Packs"
       ],
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "id": "BKM@BalatroCommunityCollegePack",
+      "id": "BalatroCommunityCollegePack",
       "title": "Balatro Community College",
       "author": "BKM",
       "categories": [
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "id": "BakersDozenBagels@Bakery",
+      "id": "Bakery",
       "title": "Bakery",
       "author": "BakersDozenBagels",
       "categories": [
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "id": "BakersDozenBagels@ValleyOfTheKings",
+      "id": "ValleyOfTheKings",
       "title": "Valley of the Kings",
       "author": "BakersDozenBagels",
       "categories": [
@@ -570,9 +570,9 @@
       ]
     },
     {
-      "id": "Balatro-Potato-Patch@HotPotato",
+      "id": "HotPotato",
       "title": "Hot Potato",
-      "author": "The Potato Patch Events Group",
+      "author": "Balatro-Potato-Patch",
       "categories": [
         "Content"
       ],
@@ -593,9 +593,9 @@
       ]
     },
     {
-      "id": "Balatro-Potato-Patch@PotatoPatchUtils",
+      "id": "PotatoPatchUtils",
       "title": "Potato Patch Utils",
-      "author": "The Potato Patch Events Group",
+      "author": "Balatro-Potato-Patch",
       "categories": [
         "API"
       ],
@@ -616,9 +616,9 @@
       ]
     },
     {
-      "id": "Balatro-Potato-Patch@StockingStuffer",
+      "id": "StockingStuffer",
       "title": "Stocking Stuffer",
-      "author": "The Potato Patch Events Group",
+      "author": "Balatro-Potato-Patch",
       "categories": [
         "Content"
       ],
@@ -639,9 +639,9 @@
       ]
     },
     {
-      "id": "Balatro-Potato-Patch@Wormhole",
+      "id": "Wormhole",
       "title": "Wormhole",
-      "author": "The Potato Patch Events Group",
+      "author": "Balatro-Potato-Patch",
       "categories": [
         "Content"
       ],
@@ -662,9 +662,9 @@
       ]
     },
     {
-      "id": "Balatro-University-Community@House-of-Hearts",
+      "id": "House-of-Hearts",
       "title": "House of Hearts",
-      "author": "Balatro University Community",
+      "author": "Balatro-University-Community",
       "categories": [
         "Content",
         "Joker"
@@ -686,9 +686,9 @@
       ]
     },
     {
-      "id": "Balin-P@Wilder",
+      "id": "Wilder",
       "title": "Wilder",
-      "author": "Sir. Gameboy",
+      "author": "Balin-P",
       "categories": [
         "Quality of Life",
         "Miscellaneous"
@@ -710,9 +710,9 @@
       ]
     },
     {
-      "id": "BarrierTrio@Cardsauce",
+      "id": "Cardsauce",
       "title": "Cardsauce",
-      "author": "BarrierTrio & Keku",
+      "author": "BarrierTrio",
       "categories": [
         "Content",
         "Joker",
@@ -735,9 +735,9 @@
       ]
     },
     {
-      "id": "BataBata3@PampaPack",
+      "id": "PampaPack",
       "title": "Pampa Joker Pack",
-      "author": "batabata3",
+      "author": "BataBata3",
       "categories": [
         "Joker"
       ],
@@ -758,9 +758,9 @@
       ]
     },
     {
-      "id": "Bazinga9000@MathBlinds",
+      "id": "MathBlinds",
       "title": "Math Blinds",
-      "author": "dvrp0",
+      "author": "Bazinga9000",
       "categories": [
         "Content"
       ],
@@ -781,7 +781,7 @@
       ]
     },
     {
-      "id": "Beansofwarr@Balatro",
+      "id": "Balatro",
       "title": "Balatro+",
       "author": "Beansofwarr",
       "categories": [
@@ -804,7 +804,7 @@
       ]
     },
     {
-      "id": "BestSpark687090@SparkLatro",
+      "id": "SparkLatro",
       "title": "SparkLatro",
       "author": "BestSpark687090",
       "categories": [
@@ -829,7 +829,7 @@
       ]
     },
     {
-      "id": "Betmma@BetmmaMods",
+      "id": "BetmmaMods",
       "title": "Betmma Mods",
       "author": "Betmma",
       "categories": [
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "id": "Beverage@FantaJokers",
+      "id": "FantaJokers",
       "title": "Fanta the Clown Jokers",
       "author": "Beverage",
       "categories": [
@@ -875,7 +875,7 @@
       ]
     },
     {
-      "id": "BigRed@JokerFilter",
+      "id": "JokerFilter",
       "title": "JokerFilter",
       "author": "BigRed",
       "categories": [
@@ -898,9 +898,9 @@
       ]
     },
     {
-      "id": "BillCipher@Willatro",
+      "id": "Willatro",
       "title": "Willatro",
-      "author": "Bill Cipher",
+      "author": "BillCipher",
       "categories": [
         "Content"
       ],
@@ -921,7 +921,7 @@
       ]
     },
     {
-      "id": "Blazingulag@Prism",
+      "id": "Prism",
       "title": "Prism",
       "author": "Blazingulag",
       "categories": [
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "id": "Blind@Amber-Acorn-Order-Restore",
+      "id": "Amber-Acorn-Order-Restore",
       "title": "Amber Acorn Order Restore",
       "author": "Blind",
       "categories": [
@@ -967,9 +967,9 @@
       ]
     },
     {
-      "id": "BlindsideTeam@Blindside",
+      "id": "Blindside",
       "title": "Balatro: Blindside",
-      "author": "Luna, Anne, and Base",
+      "author": "BlindsideTeam",
       "categories": [
         "Content",
         "Joker"
@@ -991,7 +991,7 @@
       ]
     },
     {
-      "id": "Blizzow@ThemedJokersRetriggered",
+      "id": "ThemedJokersRetriggered",
       "title": "Themed Jokers: Retriggered",
       "author": "Blizzow",
       "categories": [
@@ -1015,9 +1015,9 @@
       ]
     },
     {
-      "id": "Bosass@ReadableTarots",
+      "id": "ReadableTarots",
       "title": "At a glance - Readable Tarots",
-      "author": "sas",
+      "author": "Bosass",
       "categories": [
         "Resource Packs"
       ],
@@ -1038,7 +1038,7 @@
       ]
     },
     {
-      "id": "Breezebuilder@DismissAlert",
+      "id": "DismissAlert",
       "title": "DismissAlert",
       "author": "Breezebuilder",
       "categories": [
@@ -1062,7 +1062,7 @@
       ]
     },
     {
-      "id": "Breezebuilder@SystemClock",
+      "id": "SystemClock",
       "title": "SystemClock",
       "author": "Breezebuilder",
       "categories": [
@@ -1086,7 +1086,7 @@
       ]
     },
     {
-      "id": "BurndiL@BalatroAP",
+      "id": "BalatroAP",
       "title": "BalatroAP",
       "author": "BurndiL",
       "categories": [
@@ -1109,9 +1109,9 @@
       ]
     },
     {
-      "id": "ButterSpaceship-Orangesuit1@Glowypumpkin-Community-Deck",
+      "id": "Glowypumpkin-Community-Deck",
       "title": "Glowypumpkin Community Deck",
-      "author": "ButterSpaceship",
+      "author": "ButterSpaceship-Orangesuit1",
       "categories": [
         "Resource Packs"
       ],
@@ -1132,7 +1132,7 @@
       ]
     },
     {
-      "id": "CGNik@CGNiksBalatro",
+      "id": "CGNiksBalatro",
       "title": "CGNik's Balatro",
       "author": "CGNik",
       "categories": [
@@ -1157,7 +1157,7 @@
       ]
     },
     {
-      "id": "CampfireCollective@ExtraCredit",
+      "id": "ExtraCredit",
       "title": "ExtraCredit",
       "author": "CampfireCollective",
       "categories": [
@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "id": "Captainmanticore@Toontasticmodpack",
+      "id": "Toontasticmodpack",
       "title": "Toontastic Mod Pack",
       "author": "Captainmanticore",
       "categories": [
@@ -1206,7 +1206,7 @@
       ]
     },
     {
-      "id": "Carroton@BalatroDarkMode",
+      "id": "BalatroDarkMode",
       "title": "Balatro Dark Mode",
       "author": "Carroton",
       "categories": [
@@ -1229,7 +1229,7 @@
       ]
     },
     {
-      "id": "Catzzadilla@Blank",
+      "id": "Blank",
       "title": "Blank",
       "author": "Catzzadilla",
       "categories": [
@@ -1252,9 +1252,9 @@
       ]
     },
     {
-      "id": "CelestinGaming@BalatrinGamingDeck",
+      "id": "BalatrinGamingDeck",
       "title": "BalatrinGamingDeck",
-      "author": "Celestin Gaming",
+      "author": "CelestinGaming",
       "categories": [
         "Resource Packs"
       ],
@@ -1275,9 +1275,9 @@
       ]
     },
     {
-      "id": "CeruleanK@SharpCards",
+      "id": "SharpCards",
       "title": "Sharp Cards",
-      "author": "CeruleanKay",
+      "author": "CeruleanK",
       "categories": [
         "Quality of Life"
       ],
@@ -1298,9 +1298,9 @@
       ]
     },
     {
-      "id": "Cold-Beans-Participants@Cold-Beans",
+      "id": "Cold-Beans",
       "title": "Cold Beans",
-      "author": "Cold Beans Participants",
+      "author": "Cold-Beans-Participants",
       "categories": [
         "Content",
         "Joker"
@@ -1322,7 +1322,7 @@
       ]
     },
     {
-      "id": "Coo29@Soup",
+      "id": "Soup",
       "title": "Soup",
       "author": "Coo29",
       "categories": [
@@ -1347,7 +1347,7 @@
       ]
     },
     {
-      "id": "Coo29@Yippie",
+      "id": "Yippie",
       "title": "Yippie",
       "author": "Coo29",
       "categories": [
@@ -1371,9 +1371,9 @@
       ]
     },
     {
-      "id": "CountKiro@PMBalatroMod",
+      "id": "PMBalatroMod",
       "title": "Project Moon Texture Pack",
-      "author": "Kiro",
+      "author": "CountKiro",
       "categories": [
         "Resource Packs"
       ],
@@ -1394,7 +1394,7 @@
       ]
     },
     {
-      "id": "CraftedCart@Jimbo'sMetrics",
+      "id": "Jimbo'sMetrics",
       "title": "Jimbo's Metrics",
       "author": "CraftedCart",
       "categories": [
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "id": "Craigums@EternalStake",
+      "id": "EternalStake",
       "title": "Eternal Stake",
       "author": "Craigums",
       "categories": [
@@ -1441,7 +1441,7 @@
       ]
     },
     {
-      "id": "CyberGaster@VanillaRedux",
+      "id": "VanillaRedux",
       "title": "VanillaRedux",
       "author": "CyberGaster",
       "categories": [
@@ -1465,9 +1465,9 @@
       ]
     },
     {
-      "id": "Cybernetic@poopoofart",
+      "id": "poopoofart",
       "title": "poopoofart",
-      "author": "cybernetic",
+      "author": "Cybernetic",
       "categories": [
         "Content"
       ],
@@ -1488,7 +1488,7 @@
       ]
     },
     {
-      "id": "DDRitter@HDBalatro",
+      "id": "HDBalatro",
       "title": "HD Balatro",
       "author": "DDRitter",
       "categories": [
@@ -1511,9 +1511,9 @@
       ]
     },
     {
-      "id": "Dark-Louie@Dark-Louies-Balala-Mod",
+      "id": "Dark-Louies-Balala-Mod",
       "title": "Dark Louie's Balala Mod",
-      "author": "Dark Louie",
+      "author": "Dark-Louie",
       "categories": [
         "Content"
       ],
@@ -1534,7 +1534,7 @@
       ]
     },
     {
-      "id": "DarkAutumn2618@PlanetNine",
+      "id": "PlanetNine",
       "title": "Planet Nine",
       "author": "DarkAutumn2618",
       "categories": [
@@ -1557,7 +1557,7 @@
       ]
     },
     {
-      "id": "Deco@Pokerleven",
+      "id": "Pokerleven",
       "title": "Pokerleven",
       "author": "Deco",
       "categories": [
@@ -1581,7 +1581,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@CustomSuitOrder",
+      "id": "CustomSuitOrder",
       "title": "Custom Suit Order",
       "author": "DigitalDetective47",
       "categories": [
@@ -1604,7 +1604,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@Justice",
+      "id": "Justice",
       "title": "Justice",
       "author": "DigitalDetective47",
       "categories": [
@@ -1627,7 +1627,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@NextAntePreview",
+      "id": "NextAntePreview",
       "title": "Next Ante Preview",
       "author": "DigitalDetective47",
       "categories": [
@@ -1650,7 +1650,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@ProfilesPlus",
+      "id": "ProfilesPlus",
       "title": "Profiles Plus",
       "author": "DigitalDetective47",
       "categories": [
@@ -1673,7 +1673,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@StrangeLibrary",
+      "id": "StrangeLibrary",
       "title": "Strange Library",
       "author": "DigitalDetective47",
       "categories": [
@@ -1696,7 +1696,7 @@
       ]
     },
     {
-      "id": "DigitalDetective47@StrangePencil",
+      "id": "StrangePencil",
       "title": "Strange Pencil",
       "author": "DigitalDetective47",
       "categories": [
@@ -1719,9 +1719,9 @@
       ]
     },
     {
-      "id": "DivvyCr@Balatro-Preview",
+      "id": "Balatro-Preview",
       "title": "Divvy's Preview",
-      "author": "Divvy C.",
+      "author": "DivvyCr",
       "categories": [
         "Quality of Life"
       ],
@@ -1742,9 +1742,9 @@
       ]
     },
     {
-      "id": "Dogg_Fly@AnotherStupidBalatroMod",
+      "id": "AnotherStupidBalatroMod",
       "title": "Another Stupid Balatro Mod",
-      "author": "Dogg Fly",
+      "author": "Dogg_Fly",
       "categories": [
         "Content",
         "Joker",
@@ -1767,9 +1767,9 @@
       ]
     },
     {
-      "id": "Dogg_Fly@Kloun",
+      "id": "Kloun",
       "title": "Kloun DEMO",
-      "author": "Dogg Fly",
+      "author": "Dogg_Fly",
       "categories": [
         "Content",
         "Joker",
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "id": "DrFuff@AJollyExpansion",
+      "id": "AJollyExpansion",
       "title": "A Jolly Expansion",
       "author": "DrFuff",
       "categories": [
@@ -1815,7 +1815,7 @@
       ]
     },
     {
-      "id": "Drews18@the-quintessential-quintuplets-Deck-skin-mod",
+      "id": "the-quintessential-quintuplets-Deck-skin-mod",
       "title": "the quintessential quintuplets Deck skin mod",
       "author": "Drews18",
       "categories": [
@@ -1839,7 +1839,7 @@
       ]
     },
     {
-      "id": "Dualsight@Spudlatro",
+      "id": "Spudlatro",
       "title": "Spudlatro",
       "author": "Dualsight",
       "categories": [
@@ -1864,7 +1864,7 @@
       ]
     },
     {
-      "id": "DuplexME@Decks-Aplenty",
+      "id": "Decks-Aplenty",
       "title": "Decks Aplenty",
       "author": "DuplexME",
       "categories": [
@@ -1887,9 +1887,9 @@
       ]
     },
     {
-      "id": "ECLA17@PixelPerfect",
+      "id": "PixelPerfect",
       "title": "pixelperfect",
-      "author": "ecla17",
+      "author": "ECLA17",
       "categories": [
         "Content"
       ],
@@ -1910,9 +1910,9 @@
       ]
     },
     {
-      "id": "ENNWAY@SuperFine",
+      "id": "SuperFine",
       "title": "SuperFine!!",
-      "author": "ENNWAY!",
+      "author": "ENNWAY",
       "categories": [
         "Content",
         "Joker"
@@ -1934,7 +1934,7 @@
       ]
     },
     {
-      "id": "EasternFarmer@EasternFarmers_corner",
+      "id": "EasternFarmers_corner",
       "title": "EasternFarmer's corner",
       "author": "EasternFarmer",
       "categories": [
@@ -1958,7 +1958,7 @@
       ]
     },
     {
-      "id": "EnderGoodra@Textile",
+      "id": "Textile",
       "title": "Textile",
       "author": "EnderGoodra",
       "categories": [
@@ -1981,7 +1981,7 @@
       ]
     },
     {
-      "id": "Eramdam@StickyFingers",
+      "id": "StickyFingers",
       "title": "Sticky Fingers",
       "author": "Eramdam",
       "categories": [
@@ -2004,7 +2004,7 @@
       ]
     },
     {
-      "id": "Eremel@Galdur",
+      "id": "Galdur",
       "title": "Galdur",
       "author": "Eremel",
       "categories": [
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "id": "Eremel@Malverk",
+      "id": "Malverk",
       "title": "Malverk",
       "author": "Eremel",
       "categories": [
@@ -2052,9 +2052,9 @@
       ]
     },
     {
-      "id": "Eremel@Ortalab",
+      "id": "Ortalab",
       "title": "Ortalab",
-      "author": "Ortalab Team",
+      "author": "Eremel",
       "categories": [
         "Content"
       ],
@@ -2075,7 +2075,7 @@
       ]
     },
     {
-      "id": "EricTheToon@Fortlatro",
+      "id": "Fortlatro",
       "title": "Fortlatro",
       "author": "EricTheToon",
       "categories": [
@@ -2100,7 +2100,7 @@
       ]
     },
     {
-      "id": "Eternalnacho@PokermonDip",
+      "id": "PokermonDip",
       "title": "Nacho's Pokermon Dip",
       "author": "Eternalnacho",
       "categories": [
@@ -2124,7 +2124,7 @@
       ]
     },
     {
-      "id": "Eternalnacho@Troubadour",
+      "id": "Troubadour",
       "title": "Troubadour",
       "author": "Eternalnacho",
       "categories": [
@@ -2147,7 +2147,7 @@
       ]
     },
     {
-      "id": "FALATRO@Balatro-Waves",
+      "id": "Balatro-Waves",
       "title": "Balatro Waves",
       "author": "FALATRO",
       "categories": [
@@ -2170,9 +2170,9 @@
       ]
     },
     {
-      "id": "Fantom@Fantom'sPreview",
+      "id": "Fantom'sPreview",
       "title": "Fantom's Preview",
-      "author": "Fantom, Divvy",
+      "author": "Fantom",
       "categories": [
         "Quality of Life"
       ],
@@ -2193,7 +2193,7 @@
       ]
     },
     {
-      "id": "FatalError404X@Uberlatro",
+      "id": "Uberlatro",
       "title": "Uberlatro",
       "author": "FatalError404X",
       "categories": [
@@ -2216,7 +2216,7 @@
       ]
     },
     {
-      "id": "FemboyAirlines@Todd-Oddities",
+      "id": "Todd-Oddities",
       "title": "Todd Oddities",
       "author": "FemboyAirlines",
       "categories": [
@@ -2239,7 +2239,7 @@
       ]
     },
     {
-      "id": "Finnaware@Finn'sPok\u00e9cards",
+      "id": "Finn'sPok\u00e9cards",
       "title": "Finn's Pok\u00e9cards",
       "author": "Finnaware",
       "categories": [
@@ -2262,7 +2262,7 @@
       ]
     },
     {
-      "id": "Finnaware@Finn'sPok\u00e9latro",
+      "id": "Finn'sPok\u00e9latro",
       "title": "Finn's Pok\u00e9latro",
       "author": "Finnaware",
       "categories": [
@@ -2285,7 +2285,7 @@
       ]
     },
     {
-      "id": "Finnaware@Kyu-latro!",
+      "id": "Kyu-latro!",
       "title": "Kyu-latro!",
       "author": "Finnaware",
       "categories": [
@@ -2308,7 +2308,7 @@
       ]
     },
     {
-      "id": "Firch@Bunco",
+      "id": "Bunco",
       "title": "Bunco",
       "author": "Firch",
       "categories": [
@@ -2333,9 +2333,9 @@
       ]
     },
     {
-      "id": "FireIce421@BalatroDash",
+      "id": "BalatroDash",
       "title": "Balatro Dash",
-      "author": "FireIce",
+      "author": "FireIce421",
       "categories": [
         "Content"
       ],
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "id": "FloppaGuy@Endless-Chihuahuas",
+      "id": "Endless-Chihuahuas",
       "title": "Endless Chihuahuas",
       "author": "FloppaGuy",
       "categories": [
@@ -2381,9 +2381,9 @@
       ]
     },
     {
-      "id": "Flowire@Shimmerberry",
+      "id": "Shimmerberry",
       "title": "Shimmerberry",
-      "author": "Flowire, unkokat",
+      "author": "Flowire",
       "categories": [
         "Content",
         "Joker",
@@ -2406,7 +2406,7 @@
       ]
     },
     {
-      "id": "Fogold@Holy-Fools",
+      "id": "Holy-Fools",
       "title": "Holy Fools",
       "author": "Fogold",
       "categories": [
@@ -2429,7 +2429,7 @@
       ]
     },
     {
-      "id": "Franciscoarr@Espalatro",
+      "id": "Espalatro",
       "title": "Espalatro",
       "author": "Franciscoarr",
       "categories": [
@@ -2452,9 +2452,9 @@
       ]
     },
     {
-      "id": "Fridge@Horizon",
+      "id": "Horizon",
       "title": "Horizon Mod",
-      "author": "Microwave",
+      "author": "Fridge",
       "categories": [
         "Content"
       ],
@@ -2475,7 +2475,7 @@
       ]
     },
     {
-      "id": "Garb@GARBSHIT",
+      "id": "GARBSHIT",
       "title": "GARBSHIT",
       "author": "Garb",
       "categories": [
@@ -2498,7 +2498,7 @@
       ]
     },
     {
-      "id": "GauntletGames-2086@D6Jokers",
+      "id": "D6Jokers",
       "title": "D6 Jokers",
       "author": "GauntletGames-2086",
       "categories": [
@@ -2521,9 +2521,9 @@
       ]
     },
     {
-      "id": "George-The-Rat@Bundles-Of-Fun",
+      "id": "Bundles-Of-Fun",
       "title": "Bundles Of Fun",
-      "author": "George The Rat",
+      "author": "George-The-Rat",
       "categories": [
         "Content",
         "Joker"
@@ -2545,9 +2545,9 @@
       ]
     },
     {
-      "id": "Gfsgfs@Punchline",
+      "id": "Punchline",
       "title": "Punchline",
-      "author": "Gfsgfs and EricTheToon",
+      "author": "Gfsgfs",
       "categories": [
         "Content"
       ],
@@ -2568,7 +2568,7 @@
       ]
     },
     {
-      "id": "GhostSalt@BFDI",
+      "id": "BFDI",
       "title": "BFDI",
       "author": "GhostSalt",
       "categories": [
@@ -2592,7 +2592,7 @@
       ]
     },
     {
-      "id": "GhostSalt@Catan",
+      "id": "Catan",
       "title": "Catan",
       "author": "GhostSalt",
       "categories": [
@@ -2616,7 +2616,7 @@
       ]
     },
     {
-      "id": "GhostSalt@Flipbook",
+      "id": "Flipbook",
       "title": "Flipbook",
       "author": "GhostSalt",
       "categories": [
@@ -2639,7 +2639,7 @@
       ]
     },
     {
-      "id": "GhostSalt@GhostCards",
+      "id": "GhostCards",
       "title": "Ghost Cards",
       "author": "GhostSalt",
       "categories": [
@@ -2662,7 +2662,7 @@
       ]
     },
     {
-      "id": "GhostSalt@Phanta",
+      "id": "Phanta",
       "title": "Phanta",
       "author": "GhostSalt",
       "categories": [
@@ -2686,9 +2686,9 @@
       ]
     },
     {
-      "id": "GitNether@Paperback",
+      "id": "Paperback",
       "title": "Paperback",
-      "author": "PaperMoon",
+      "author": "GitNether",
       "categories": [
         "Content"
       ],
@@ -2709,7 +2709,7 @@
       ]
     },
     {
-      "id": "GitNether@balagay",
+      "id": "balagay",
       "title": "Balagay",
       "author": "GitNether",
       "categories": [
@@ -2732,9 +2732,9 @@
       ]
     },
     {
-      "id": "Glitchkat10@Cryptposting",
+      "id": "Cryptposting",
       "title": "Cryptposting",
-      "author": "Glitchkat10 and Poker The Poker",
+      "author": "Glitchkat10",
       "categories": [
         "Content",
         "Joker"
@@ -2756,9 +2756,9 @@
       ]
     },
     {
-      "id": "GoonsTowerDefense@Goonlatro",
+      "id": "Goonlatro",
       "title": "Goonlatro",
-      "author": "Goons Tower Defense",
+      "author": "GoonsTowerDefense",
       "categories": [
         "Content",
         "Joker",
@@ -2781,7 +2781,7 @@
       ]
     },
     {
-      "id": "GreenKookie@Sholatro",
+      "id": "Sholatro",
       "title": "Sholatro",
       "author": "GreenKookie",
       "categories": [
@@ -2805,7 +2805,7 @@
       ]
     },
     {
-      "id": "GreenKookie@Sholium",
+      "id": "Sholium",
       "title": "Sholium",
       "author": "GreenKookie",
       "categories": [
@@ -2829,9 +2829,9 @@
       ]
     },
     {
-      "id": "GunnableScum@Visibility",
+      "id": "Visibility",
       "title": "Visibility",
-      "author": "GunnableScum, InvisibleSides and Monachrome",
+      "author": "GunnableScum",
       "categories": [
         "Content",
         "Joker",
@@ -2854,7 +2854,7 @@
       ]
     },
     {
-      "id": "Hailfire805@2For1Tarrots",
+      "id": "2For1Tarrots",
       "title": "2 For 1 Tarots",
       "author": "Hailfire805",
       "categories": [
@@ -2878,9 +2878,9 @@
       ]
     },
     {
-      "id": "Halo@Gemstones",
+      "id": "Gemstones",
       "title": "Gemstones",
-      "author": "Halo / OfficialHalo",
+      "author": "Halo",
       "categories": [
         "Content"
       ],
@@ -2901,9 +2901,9 @@
       ]
     },
     {
-      "id": "Hawker-Possessed@Card-Parser",
+      "id": "Card-Parser",
       "title": "Card Parser",
-      "author": "Hawker, Possessed",
+      "author": "Hawker-Possessed",
       "categories": [
         "Quality of Life"
       ],
@@ -2924,7 +2924,7 @@
       ]
     },
     {
-      "id": "Haykira@Expedition33Deck",
+      "id": "Expedition33Deck",
       "title": "Expedition 33 Deck",
       "author": "Haykira",
       "categories": [
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "id": "HenHat583@HebrewBalatro",
+      "id": "HebrewBalatro",
       "title": "Hebrew Translation / \u05ea\u05e8\u05d2\u05d5\u05dd \u05e2\u05d1\u05e8\u05d9",
       "author": "HenHat583",
       "categories": [
@@ -2971,9 +2971,9 @@
       ]
     },
     {
-      "id": "Henry-Aest@Digital-Circus-Cards",
+      "id": "Digital-Circus-Cards",
       "title": "Digital Circus Cards",
-      "author": "Henry Aest",
+      "author": "Henry-Aest",
       "categories": [
         "Content",
         "Resource Packs"
@@ -2995,7 +2995,7 @@
       ]
     },
     {
-      "id": "Horizon7006@Dumbtro",
+      "id": "Dumbtro",
       "title": "Dumbtro",
       "author": "Horizon7006",
       "categories": [
@@ -3019,7 +3019,7 @@
       ]
     },
     {
-      "id": "Hoversquid@Condensed_UI",
+      "id": "Condensed_UI",
       "title": "Condensed UI",
       "author": "Hoversquid",
       "categories": [
@@ -3042,7 +3042,7 @@
       ]
     },
     {
-      "id": "HunterJ360@EverythingUpgradeBalatro",
+      "id": "EverythingUpgradeBalatro",
       "title": "Everything Upgrade Balatro",
       "author": "HunterJ360",
       "categories": [
@@ -3066,7 +3066,7 @@
       ]
     },
     {
-      "id": "HuyTheKiller@LocFixer",
+      "id": "LocFixer",
       "title": "LocFixer",
       "author": "HuyTheKiller",
       "categories": [
@@ -3090,7 +3090,7 @@
       ]
     },
     {
-      "id": "HuyTheKiller@Sagatro",
+      "id": "Sagatro",
       "title": "Sagatro",
       "author": "HuyTheKiller",
       "categories": [
@@ -3113,7 +3113,7 @@
       ]
     },
     {
-      "id": "HuyTheKiller@SauKhongHuDecks",
+      "id": "SauKhongHuDecks",
       "title": "SauKhongHuDecks",
       "author": "HuyTheKiller",
       "categories": [
@@ -3136,7 +3136,7 @@
       ]
     },
     {
-      "id": "HuyTheKiller@SilkTouch",
+      "id": "SilkTouch",
       "title": "Silk Touch",
       "author": "HuyTheKiller",
       "categories": [
@@ -3161,7 +3161,7 @@
       ]
     },
     {
-      "id": "HuyTheKiller@VietnameseBalatro",
+      "id": "VietnameseBalatro",
       "title": "Vietnamese Balatro",
       "author": "HuyTheKiller",
       "categories": [
@@ -3184,7 +3184,7 @@
       ]
     },
     {
-      "id": "IcyEthics@BalatroGoesKino",
+      "id": "BalatroGoesKino",
       "title": "Balatro Goes Kino!",
       "author": "IcyEthics",
       "categories": [
@@ -3207,7 +3207,7 @@
       ]
     },
     {
-      "id": "IcyEthics@GlueForModpacks",
+      "id": "GlueForModpacks",
       "title": "Glue For Modpacks",
       "author": "IcyEthics",
       "categories": [
@@ -3231,7 +3231,7 @@
       ]
     },
     {
-      "id": "InertSteak@Pokermon",
+      "id": "Pokermon",
       "title": "Pokermon",
       "author": "InertSteak",
       "categories": [
@@ -3255,9 +3255,9 @@
       ]
     },
     {
-      "id": "InkyEnby@InkySuitSkins",
+      "id": "InkySuitSkins",
       "title": "Inky's Suit Skins",
-      "author": "Inky 'Ivory' Enby",
+      "author": "InkyEnby",
       "categories": [
         "Resource Packs"
       ],
@@ -3278,9 +3278,9 @@
       ]
     },
     {
-      "id": "InkyEnby@ParadoxicalPoker",
+      "id": "ParadoxicalPoker",
       "title": "Paradoxical Poker",
-      "author": "Inky 'Ivory' Enby, PotatoNerd",
+      "author": "InkyEnby",
       "categories": [
         "Content"
       ],
@@ -3301,9 +3301,9 @@
       ]
     },
     {
-      "id": "InspectorB&MarioFan597@Beelatro",
+      "id": "Beelatro",
       "title": "Beelatro",
-      "author": "InspectorB & MarioFan597",
+      "author": "InspectorB&MarioFan597",
       "categories": [
         "Content"
       ],
@@ -3324,7 +3324,7 @@
       ]
     },
     {
-      "id": "IsaGoodFriend@BalatroTCG",
+      "id": "BalatroTCG",
       "title": "Balatro TCG",
       "author": "IsaGoodFriend",
       "categories": [
@@ -3349,7 +3349,7 @@
       ]
     },
     {
-      "id": "Isotope@Runelatro",
+      "id": "Runelatro",
       "title": "Runelatro",
       "author": "Isotope",
       "categories": [
@@ -3372,9 +3372,9 @@
       ]
     },
     {
-      "id": "ItayFeeder@CodexArcanum",
+      "id": "CodexArcanum",
       "title": "Codex Arcanum",
-      "author": "itayfeder, lshtech",
+      "author": "ItayFeeder",
       "categories": [
         "Content"
       ],
@@ -3395,9 +3395,9 @@
       ]
     },
     {
-      "id": "Itayfeder@FusionJokers",
+      "id": "FusionJokers",
       "title": "Fusion Jokers",
-      "author": "itayfeder",
+      "author": "Itayfeder",
       "categories": [
         "Joker",
         "API"
@@ -3419,7 +3419,7 @@
       ]
     },
     {
-      "id": "ItsFlowwey@FlowerPot",
+      "id": "FlowerPot",
       "title": "Flower Pot",
       "author": "ItsFlowwey",
       "categories": [
@@ -3442,9 +3442,9 @@
       ]
     },
     {
-      "id": "ItsGraphax@RedditBonanza",
+      "id": "RedditBonanza",
       "title": "Reddit Bonanza",
-      "author": "ItsGraphax, mindoftony",
+      "author": "ItsGraphax",
       "categories": [
         "Content",
         "Joker"
@@ -3466,7 +3466,7 @@
       ]
     },
     {
-      "id": "ItsKKing@VerminOfPetrichor",
+      "id": "VerminOfPetrichor",
       "title": "Vermin Of Petrichor",
       "author": "ItsKKing",
       "categories": [
@@ -3489,7 +3489,7 @@
       ]
     },
     {
-      "id": "JBOSS_64@ULTRAKILL-Face-Cards",
+      "id": "ULTRAKILL-Face-Cards",
       "title": "ULTRAKILL Face Cards",
       "author": "JBOSS_64",
       "categories": [
@@ -3513,7 +3513,7 @@
       ]
     },
     {
-      "id": "JEIPEY@Noita-Deck",
+      "id": "Noita-Deck",
       "title": "Noita Deck",
       "author": "JEIPEY",
       "categories": [
@@ -3536,7 +3536,7 @@
       ]
     },
     {
-      "id": "JakeyBooBoo@!BooBooBalatro!",
+      "id": "!BooBooBalatro!",
       "title": "!BooBooBalatro!",
       "author": "JakeyBooBoo",
       "categories": [
@@ -3559,7 +3559,7 @@
       ]
     },
     {
-      "id": "JamesTheJellyfish@BadApple",
+      "id": "BadApple",
       "title": "Bad Apple",
       "author": "JamesTheJellyfish",
       "categories": [
@@ -3582,7 +3582,7 @@
       ]
     },
     {
-      "id": "Jammbo@Jambatro",
+      "id": "Jambatro",
       "title": "Jambatro",
       "author": "Jammbo",
       "categories": [
@@ -3605,7 +3605,7 @@
       ]
     },
     {
-      "id": "Jammbo@Springfield",
+      "id": "Springfield",
       "title": "Springfield",
       "author": "Jammbo",
       "categories": [
@@ -3629,7 +3629,7 @@
       ]
     },
     {
-      "id": "Jan@GraceBalatro",
+      "id": "GraceBalatro",
       "title": "GraceBalatro",
       "author": "Jan",
       "categories": [
@@ -3653,7 +3653,7 @@
       ]
     },
     {
-      "id": "Jaye@JokeyPony",
+      "id": "JokeyPony",
       "title": "JokeyPony",
       "author": "Jaye",
       "categories": [
@@ -3677,7 +3677,7 @@
       ]
     },
     {
-      "id": "JeffVi@DX-Tarots",
+      "id": "DX-Tarots",
       "title": "Deluxe Consumables",
       "author": "JeffVi",
       "categories": [
@@ -3700,7 +3700,7 @@
       ]
     },
     {
-      "id": "Jogla@DebugPlusPlus",
+      "id": "DebugPlusPlus",
       "title": "DebugPlusPlus",
       "author": "Jogla",
       "categories": [
@@ -3724,9 +3724,9 @@
       ]
     },
     {
-      "id": "JosephPB09@CuriLatro",
+      "id": "CuriLatro",
       "title": "CuriLatro",
-      "author": "JosephPB09 and Balatro fans",
+      "author": "JosephPB09",
       "categories": [
         "Resource Packs"
       ],
@@ -3747,7 +3747,7 @@
       ]
     },
     {
-      "id": "Joshi@Joshis-Decks",
+      "id": "Joshis-Decks",
       "title": "Joshi's Decks",
       "author": "Joshi",
       "categories": [
@@ -3770,7 +3770,7 @@
       ]
     },
     {
-      "id": "Joshi@No-More-Shopping-Simulator",
+      "id": "No-More-Shopping-Simulator",
       "title": "No More Shopping Simulator",
       "author": "Joshi",
       "categories": [
@@ -3794,7 +3794,7 @@
       ]
     },
     {
-      "id": "KROOOL@Tiendita's",
+      "id": "Tiendita's",
       "title": "Tiendita's",
       "author": "KROOOL",
       "categories": [
@@ -3818,7 +3818,7 @@
       ]
     },
     {
-      "id": "Kahn@Balatro Producciones",
+      "id": "Balatro Producciones",
       "title": "Balatro Producciones",
       "author": "Kahn",
       "categories": [
@@ -3842,9 +3842,9 @@
       ]
     },
     {
-      "id": "Kars&sup3p@HandsomeDevils",
+      "id": "HandsomeDevils",
       "title": "HandsomeDevils",
-      "author": "Kars, sup3p",
+      "author": "Kars&sup3p",
       "categories": [
         "Content"
       ],
@@ -3865,7 +3865,7 @@
       ]
     },
     {
-      "id": "KaviD@WorldsCollide",
+      "id": "WorldsCollide",
       "title": "Worlds Collide",
       "author": "KaviD",
       "categories": [
@@ -3889,7 +3889,7 @@
       ]
     },
     {
-      "id": "Keku@DeckSkinsLite",
+      "id": "DeckSkinsLite",
       "title": "DeckSkinsLite",
       "author": "Keku",
       "categories": [
@@ -3912,7 +3912,7 @@
       ]
     },
     {
-      "id": "Keku@Vortex",
+      "id": "Vortex",
       "title": "Vortex",
       "author": "Keku",
       "categories": [
@@ -3935,9 +3935,9 @@
       ]
     },
     {
-      "id": "Keyboard-Noah@FGCBalatro",
+      "id": "FGCBalatro",
       "title": "FGCBalatro",
-      "author": "Keyboard Noah",
+      "author": "Keyboard-Noah",
       "categories": [
         "Content",
         "Joker",
@@ -3960,7 +3960,7 @@
       ]
     },
     {
-      "id": "Khasm@Ars-Goetia",
+      "id": "Ars-Goetia",
       "title": "Ars Goetia",
       "author": "Khasm",
       "categories": [
@@ -3985,7 +3985,7 @@
       ]
     },
     {
-      "id": "Kingmaxthe2@Maxs-Jokers",
+      "id": "Maxs-Jokers",
       "title": "Max's Jokers",
       "author": "Kingmaxthe2",
       "categories": [
@@ -4008,7 +4008,7 @@
       ]
     },
     {
-      "id": "Kitsunare@FoolsBack",
+      "id": "FoolsBack",
       "title": "Fools-Pack",
       "author": "Kitsunare",
       "categories": [
@@ -4031,7 +4031,7 @@
       ]
     },
     {
-      "id": "Knockoff_Dev@BlitzTvBox",
+      "id": "BlitzTvBox",
       "title": "Blitz's Tv Box!",
       "author": "Knockoff_Dev",
       "categories": [
@@ -4054,7 +4054,7 @@
       ]
     },
     {
-      "id": "Kooluve@BetterMouseAndGamepad",
+      "id": "BetterMouseAndGamepad",
       "title": "Better Mouse and Gamepad",
       "author": "Kooluve",
       "categories": [
@@ -4077,7 +4077,7 @@
       ]
     },
     {
-      "id": "Kuraku@Batrocities",
+      "id": "Batrocities",
       "title": "Batrocities",
       "author": "Kuraku",
       "categories": [
@@ -4100,9 +4100,9 @@
       ]
     },
     {
-      "id": "Kusane-Hexaku@Hanged-Man",
+      "id": "Hanged-Man",
       "title": "Hanged Man",
-      "author": "Kusane Hexaku",
+      "author": "Kusane-Hexaku",
       "categories": [
         "Content"
       ],
@@ -4123,7 +4123,7 @@
       ]
     },
     {
-      "id": "LFMoth@Requiem",
+      "id": "Requiem",
       "title": "Requiem",
       "author": "LFMoth",
       "categories": [
@@ -4147,7 +4147,7 @@
       ]
     },
     {
-      "id": "Larswijn@CardSleeves",
+      "id": "CardSleeves",
       "title": "CardSleeves",
       "author": "Larswijn",
       "categories": [
@@ -4171,9 +4171,9 @@
       ]
     },
     {
-      "id": "LawyerRed@RWKarmaDeck",
+      "id": "RWKarmaDeck",
       "title": "Rain World Karma Deck",
-      "author": "LawyerRed & SpomJ",
+      "author": "LawyerRed",
       "categories": [
         "Resource Packs"
       ],
@@ -4194,7 +4194,7 @@
       ]
     },
     {
-      "id": "LazyTurtle33@FireBotModList",
+      "id": "FireBotModList",
       "title": "FireBotModList",
       "author": "LazyTurtle33",
       "categories": [
@@ -4217,7 +4217,7 @@
       ]
     },
     {
-      "id": "LazyTurtle33@Smokey",
+      "id": "Smokey",
       "title": "Smokey",
       "author": "LazyTurtle33",
       "categories": [
@@ -4240,7 +4240,7 @@
       ]
     },
     {
-      "id": "LazyTurtle33@Solar",
+      "id": "Solar",
       "title": "Solar",
       "author": "LazyTurtle33",
       "categories": [
@@ -4263,7 +4263,7 @@
       ]
     },
     {
-      "id": "LazyTurtle33@TurtlesChallenges",
+      "id": "TurtlesChallenges",
       "title": "TurtlesChallenges",
       "author": "LazyTurtle33",
       "categories": [
@@ -4286,7 +4286,7 @@
       ]
     },
     {
-      "id": "Liafonx@SaveRewinder",
+      "id": "SaveRewinder",
       "title": "Save Rewinder",
       "author": "Liafonx",
       "categories": [
@@ -4309,7 +4309,7 @@
       ]
     },
     {
-      "id": "LilacLilo@Rebalatro",
+      "id": "Rebalatro",
       "title": "Rebalatro",
       "author": "LilacLilo",
       "categories": [
@@ -4333,7 +4333,7 @@
       ]
     },
     {
-      "id": "Lily@VallKarri",
+      "id": "VallKarri",
       "title": "VallKarri",
       "author": "Lily",
       "categories": [
@@ -4358,7 +4358,7 @@
       ]
     },
     {
-      "id": "Lime_Effy@CelestialFunk",
+      "id": "CelestialFunk",
       "title": "Celestial Funk",
       "author": "Lime_Effy",
       "categories": [
@@ -4381,7 +4381,7 @@
       ]
     },
     {
-      "id": "Lucky6@LuckyJimbos",
+      "id": "LuckyJimbos",
       "title": "Lucky Jimbos",
       "author": "Lucky6",
       "categories": [
@@ -4404,7 +4404,7 @@
       ]
     },
     {
-      "id": "Lucky6@LuckyLegendsI",
+      "id": "LuckyLegendsI",
       "title": "Lucky Legends I",
       "author": "Lucky6",
       "categories": [
@@ -4427,7 +4427,7 @@
       ]
     },
     {
-      "id": "Lumi@Carpet-Rocketfuel",
+      "id": "Carpet-Rocketfuel",
       "title": "Carpet Rocketfuel",
       "author": "Lumi",
       "categories": [
@@ -4450,7 +4450,7 @@
       ]
     },
     {
-      "id": "Luuumine@BalaQuints",
+      "id": "BalaQuints",
       "title": "BalaQuints",
       "author": "Luuumine",
       "categories": [
@@ -4473,7 +4473,7 @@
       ]
     },
     {
-      "id": "M0NAKR0ME@Balatro-House-Rules",
+      "id": "Balatro-House-Rules",
       "title": "Balatro: House Rules",
       "author": "M0NAKR0ME",
       "categories": [
@@ -4498,9 +4498,9 @@
       ]
     },
     {
-      "id": "MIIdrisNorthdoo@FoolishDreams",
+      "id": "FoolishDreams",
       "title": "Foolish Dreams",
-      "author": "MIIdris Northdoo",
+      "author": "MIIdrisNorthdoo",
       "categories": [
         "Content",
         "Joker"
@@ -4522,7 +4522,7 @@
       ]
     },
     {
-      "id": "MRTorres@Aura",
+      "id": "Aura",
       "title": "Aura",
       "author": "MRTorres",
       "categories": [
@@ -4547,7 +4547,7 @@
       ]
     },
     {
-      "id": "Maelmc@Pokermon-Maelmc",
+      "id": "Pokermon-Maelmc",
       "title": "Pokermon-Maelmc",
       "author": "Maelmc",
       "categories": [
@@ -4571,7 +4571,7 @@
       ]
     },
     {
-      "id": "Maelmc@TheBindingOfJimbo",
+      "id": "TheBindingOfJimbo",
       "title": "The Binding of Jimbo (The Binding of Isaac)",
       "author": "Maelmc",
       "categories": [
@@ -4595,7 +4595,7 @@
       ]
     },
     {
-      "id": "Marina@MarineFoolin",
+      "id": "MarineFoolin",
       "title": "Marine Foolin'",
       "author": "Marina",
       "categories": [
@@ -4619,9 +4619,9 @@
       ]
     },
     {
-      "id": "MartinKauppinen@ColorblindSeals",
+      "id": "ColorblindSeals",
       "title": "Colorblind Seals",
-      "author": "Martin Kauppinen",
+      "author": "MartinKauppinen",
       "categories": [
         "Resource Packs"
       ],
@@ -4642,9 +4642,9 @@
       ]
     },
     {
-      "id": "MathIsFun0@Ankh",
+      "id": "Ankh",
       "title": "Ankh",
-      "author": "MathIsFun0 & OceanRamen",
+      "author": "MathIsFun0",
       "categories": [
         "Content",
         "Miscellaneous"
@@ -4666,7 +4666,7 @@
       ]
     },
     {
-      "id": "MathIsFun0@Cryptid",
+      "id": "Cryptid",
       "title": "Cryptid",
       "author": "MathIsFun0",
       "categories": [
@@ -4689,7 +4689,7 @@
       ]
     },
     {
-      "id": "MathIsFun0@Talisman",
+      "id": "Talisman",
       "title": "Talisman",
       "author": "MathIsFun0",
       "categories": [
@@ -4714,7 +4714,7 @@
       ]
     },
     {
-      "id": "MathIsFun0@Trance",
+      "id": "Trance",
       "title": "Trance",
       "author": "MathIsFun0",
       "categories": [
@@ -4737,7 +4737,7 @@
       ]
     },
     {
-      "id": "Mathguy@CruelBlinds",
+      "id": "CruelBlinds",
       "title": "Cruel Blinds",
       "author": "Mathguy",
       "categories": [
@@ -4760,7 +4760,7 @@
       ]
     },
     {
-      "id": "Mathguy@Grim",
+      "id": "Grim",
       "title": "Grim",
       "author": "Mathguy",
       "categories": [
@@ -4783,9 +4783,9 @@
       ]
     },
     {
-      "id": "Mathguy@Hit",
+      "id": "Hit",
       "title": "Hit",
-      "author": "mathguy",
+      "author": "Mathguy",
       "categories": [
         "Content"
       ],
@@ -4806,7 +4806,7 @@
       ]
     },
     {
-      "id": "Mediumkey@RegretevatorModPack",
+      "id": "RegretevatorModPack",
       "title": "Regretevator ModPack",
       "author": "Mediumkey",
       "categories": [
@@ -4829,7 +4829,7 @@
       ]
     },
     {
-      "id": "MeraGenio@UnBlind",
+      "id": "UnBlind",
       "title": "UnBlind",
       "author": "MeraGenio",
       "categories": [
@@ -4852,7 +4852,7 @@
       ]
     },
     {
-      "id": "Mi1cK@Jimbos-Histories",
+      "id": "Jimbos-Histories",
       "title": "Jimbo's Histories",
       "author": "Mi1cK",
       "categories": [
@@ -4875,7 +4875,7 @@
       ]
     },
     {
-      "id": "Mistyk__@Showdown",
+      "id": "Showdown",
       "title": "Showdown",
       "author": "Mistyk__",
       "categories": [
@@ -4898,7 +4898,7 @@
       ]
     },
     {
-      "id": "MothBall@ModOfTheseus",
+      "id": "ModOfTheseus",
       "title": "Mod of Theseus",
       "author": "MothBall",
       "categories": [
@@ -4922,7 +4922,7 @@
       ]
     },
     {
-      "id": "MrChickenDude@LGBTmultCards",
+      "id": "LGBTmultCards",
       "title": "LGBT Mult Cards",
       "author": "MrChickenDude",
       "categories": [
@@ -4945,7 +4945,7 @@
       ]
     },
     {
-      "id": "Mrpeon@EvilAtro",
+      "id": "EvilAtro",
       "title": "EvilAtro",
       "author": "Mrpeon",
       "categories": [
@@ -4968,7 +4968,7 @@
       ]
     },
     {
-      "id": "Mysthaps@LobotomyCorp",
+      "id": "LobotomyCorp",
       "title": "Lobotomy Corporation",
       "author": "Mysthaps",
       "categories": [
@@ -4991,7 +4991,7 @@
       ]
     },
     {
-      "id": "N8uron@MinecraftTitleText",
+      "id": "MinecraftTitleText",
       "title": "Minecraft Title Text",
       "author": "N8uron",
       "categories": [
@@ -5014,7 +5014,7 @@
       ]
     },
     {
-      "id": "Neato@NeatoJokers",
+      "id": "NeatoJokers",
       "title": "NeatoJokers",
       "author": "Neato",
       "categories": [
@@ -5038,7 +5038,7 @@
       ]
     },
     {
-      "id": "Nebula434@Gamblers-Set",
+      "id": "Gamblers-Set",
       "title": "Gambler's Set",
       "author": "Nebula434",
       "categories": [
@@ -5063,7 +5063,7 @@
       ]
     },
     {
-      "id": "Newcat07@GemSteelTextures",
+      "id": "GemSteelTextures",
       "title": "GemSteel Texture",
       "author": "Newcat07",
       "categories": [
@@ -5086,9 +5086,9 @@
       ]
     },
     {
-      "id": "NightmareBalatro@Nightmarish",
+      "id": "Nightmarish",
       "title": "Nightmarish",
-      "author": "Nightmare",
+      "author": "NightmareBalatro",
       "categories": [
         "Content",
         "Miscellaneous"
@@ -5110,7 +5110,7 @@
       ]
     },
     {
-      "id": "Noodlemire@Dream-BBQ",
+      "id": "Dream-BBQ",
       "title": "Dream BBQ",
       "author": "Noodlemire",
       "categories": [
@@ -5134,7 +5134,7 @@
       ]
     },
     {
-      "id": "Numbuh214@XCards",
+      "id": "XCards",
       "title": "X-Cards",
       "author": "Numbuh214",
       "categories": [
@@ -5157,7 +5157,7 @@
       ]
     },
     {
-      "id": "Nxkoo@BadDirector",
+      "id": "BadDirector",
       "title": "Bad Director",
       "author": "Nxkoo",
       "categories": [
@@ -5183,7 +5183,7 @@
       ]
     },
     {
-      "id": "Nxkoo@Tangents",
+      "id": "Tangents",
       "title": "Tangents",
       "author": "Nxkoo",
       "categories": [
@@ -5208,7 +5208,7 @@
       ]
     },
     {
-      "id": "Nyoxide@DeckCreator",
+      "id": "DeckCreator",
       "title": "Deck Creator",
       "author": "Nyoxide",
       "categories": [
@@ -5231,9 +5231,9 @@
       ]
     },
     {
-      "id": "OceanRamen@Saturn",
+      "id": "Saturn",
       "title": "Saturn",
-      "author": "Saturn",
+      "author": "OceanRamen",
       "categories": [
         "Technical",
         "Miscellaneous"
@@ -5255,7 +5255,7 @@
       ]
     },
     {
-      "id": "Odd_owl722@genshin-HSR-jokers",
+      "id": "genshin-HSR-jokers",
       "title": "Genshin HSR Jokers",
       "author": "Odd_owl722",
       "categories": [
@@ -5279,7 +5279,7 @@
       ]
     },
     {
-      "id": "Odd_owl722@glorplatro",
+      "id": "glorplatro",
       "title": "Glorplatro",
       "author": "Odd_owl722",
       "categories": [
@@ -5302,7 +5302,7 @@
       ]
     },
     {
-      "id": "Omnilax@GoFish",
+      "id": "GoFish",
       "title": "Go Fish",
       "author": "Omnilax",
       "categories": [
@@ -5325,7 +5325,7 @@
       ]
     },
     {
-      "id": "OneSuchKeeper@Hunatro",
+      "id": "Hunatro",
       "title": "Hunatro",
       "author": "OneSuchKeeper",
       "categories": [
@@ -5348,7 +5348,7 @@
       ]
     },
     {
-      "id": "OneSuchKeeper@TelepurteCards",
+      "id": "TelepurteCards",
       "title": "Telepurte Cards",
       "author": "OneSuchKeeper",
       "categories": [
@@ -5371,7 +5371,7 @@
       ]
     },
     {
-      "id": "Opal@ChallengerDeep",
+      "id": "ChallengerDeep",
       "title": "Challenger Deep",
       "author": "Opal",
       "categories": [
@@ -5395,7 +5395,7 @@
       ]
     },
     {
-      "id": "Opal@ChallengerExamples",
+      "id": "ChallengerExamples",
       "title": "Challenger Examples",
       "author": "Opal",
       "categories": [
@@ -5418,7 +5418,7 @@
       ]
     },
     {
-      "id": "Opal@Opalstuff",
+      "id": "Opalstuff",
       "title": "Opalstuff",
       "author": "Opal",
       "categories": [
@@ -5441,7 +5441,7 @@
       ]
     },
     {
-      "id": "OppositeWolf770@SoulEverything",
+      "id": "SoulEverything",
       "title": "SoulTarots",
       "author": "OppositeWolf770",
       "categories": [
@@ -5464,7 +5464,7 @@
       ]
     },
     {
-      "id": "PLagger@Balatro-Story-Mode",
+      "id": "Balatro-Story-Mode",
       "title": "Balatro Story Mode",
       "author": "PLagger",
       "categories": [
@@ -5488,7 +5488,7 @@
       ]
     },
     {
-      "id": "PinkMaggit@Buffoonery",
+      "id": "Buffoonery",
       "title": "Buffoonery",
       "author": "PinkMaggit",
       "categories": [
@@ -5511,7 +5511,7 @@
       ]
     },
     {
-      "id": "Pinktheone@RegalsMod",
+      "id": "RegalsMod",
       "title": "Regals Mod",
       "author": "Pinktheone",
       "categories": [
@@ -5535,7 +5535,7 @@
       ]
     },
     {
-      "id": "PixelLello@Ena-Deck",
+      "id": "Ena-Deck",
       "title": "Ena Deck",
       "author": "PixelLello",
       "categories": [
@@ -5558,7 +5558,7 @@
       ]
     },
     {
-      "id": "PixeledLobster@QuickHandSelector",
+      "id": "QuickHandSelector",
       "title": "Quick Hand Selector",
       "author": "PixeledLobster",
       "categories": [
@@ -5581,7 +5581,7 @@
       ]
     },
     {
-      "id": "PlasmaPhrase@Hatchet",
+      "id": "Hatchet",
       "title": "Hatchet",
       "author": "PlasmaPhrase",
       "categories": [
@@ -5605,9 +5605,9 @@
       ]
     },
     {
-      "id": "PlasmaPhrase@Smallpox",
+      "id": "Smallpox",
       "title": "Smallpox",
-      "author": "Various",
+      "author": "PlasmaPhrase",
       "categories": [
         "Content",
         "Joker"
@@ -5629,9 +5629,9 @@
       ]
     },
     {
-      "id": "PokTux@RosesDumbassBalatroMod",
+      "id": "RosesDumbassBalatroMod",
       "title": "Rose's Dumbass Balatro Mod",
-      "author": "Rose",
+      "author": "PokTux",
       "categories": [
         "Content"
       ],
@@ -5652,9 +5652,9 @@
       ]
     },
     {
-      "id": "PokeRen@GamblingIsMagic",
+      "id": "GamblingIsMagic",
       "title": "Gambling is Magic",
-      "author": "PokeRen and Radspeon",
+      "author": "PokeRen",
       "categories": [
         "Resource Packs"
       ],
@@ -5675,7 +5675,7 @@
       ]
     },
     {
-      "id": "PorkyLIVE@Porkify",
+      "id": "Porkify",
       "title": "Porkify",
       "author": "PorkyLIVE",
       "categories": [
@@ -5699,7 +5699,7 @@
       ]
     },
     {
-      "id": "ProtoAno@Canned-Laughter",
+      "id": "Canned-Laughter",
       "title": "Canned Laughter",
       "author": "ProtoAno",
       "categories": [
@@ -5722,7 +5722,7 @@
       ]
     },
     {
-      "id": "Pyromantis@OneShot-deck-skins",
+      "id": "OneShot-deck-skins",
       "title": "OneShot deck skins",
       "author": "Pyromantis",
       "categories": [
@@ -5745,7 +5745,7 @@
       ]
     },
     {
-      "id": "RAYTRAC3R@AdventureTro",
+      "id": "AdventureTro",
       "title": "AdventureTro",
       "author": "RAYTRAC3R",
       "categories": [
@@ -5769,9 +5769,9 @@
       ]
     },
     {
-      "id": "RGTriforce@BalatroGhostTrickSkins",
+      "id": "BalatroGhostTrickSkins",
       "title": "Ghost Trick Skin Pack",
-      "author": "RGTriforce & nuclearbirb",
+      "author": "RGTriforce",
       "categories": [
         "Resource Packs"
       ],
@@ -5792,7 +5792,7 @@
       ]
     },
     {
-      "id": "RadiationV2@CollabPlusPlus",
+      "id": "CollabPlusPlus",
       "title": "Collab++",
       "author": "RadiationV2",
       "categories": [
@@ -5815,9 +5815,9 @@
       ]
     },
     {
-      "id": "RattlingSnow353@Familiar",
+      "id": "Familiar",
       "title": "Familiar",
-      "author": "RattlingSnow353/humplydinkle",
+      "author": "RattlingSnow353",
       "categories": [
         "Content"
       ],
@@ -5838,7 +5838,7 @@
       ]
     },
     {
-      "id": "RattlingSnow353@InkAndColor",
+      "id": "InkAndColor",
       "title": "Ink And Color Suits",
       "author": "RattlingSnow353",
       "categories": [
@@ -5861,7 +5861,7 @@
       ]
     },
     {
-      "id": "RattlingSnow353@SnowsMods",
+      "id": "SnowsMods",
       "title": "Snows Mods",
       "author": "RattlingSnow353",
       "categories": [
@@ -5884,7 +5884,7 @@
       ]
     },
     {
-      "id": "Refractz@Flushful",
+      "id": "Flushful",
       "title": "Flushful",
       "author": "Refractz",
       "categories": [
@@ -5908,7 +5908,7 @@
       ]
     },
     {
-      "id": "Refuge@Bloonlatro",
+      "id": "Bloonlatro",
       "title": "Bloonlatro",
       "author": "Refuge",
       "categories": [
@@ -5932,9 +5932,9 @@
       ]
     },
     {
-      "id": "Revo@Revo'sVault",
+      "id": "Revo'sVault",
       "title": "Revo's Vault",
-      "author": "CodeRevo",
+      "author": "Revo",
       "categories": [
         "Content"
       ],
@@ -5955,7 +5955,7 @@
       ]
     },
     {
-      "id": "Riv_Falcon@MultiTextBox",
+      "id": "MultiTextBox",
       "title": "Multi Text Box",
       "author": "Riv_Falcon",
       "categories": [
@@ -5978,7 +5978,7 @@
       ]
     },
     {
-      "id": "Robely@Seal-Seals",
+      "id": "Seal-Seals",
       "title": "Seal Seals",
       "author": "Robely",
       "categories": [
@@ -6002,9 +6002,9 @@
       ]
     },
     {
-      "id": "RoffleChat@Rofflatro",
+      "id": "Rofflatro",
       "title": "Rofflatro",
-      "author": "Roffle's Chat",
+      "author": "RoffleChat",
       "categories": [
         "Content",
         "Joker"
@@ -6026,7 +6026,7 @@
       ]
     },
     {
-      "id": "SDM0@SDM_0-s-Stuff",
+      "id": "SDM_0-s-Stuff",
       "title": "SDM_0's Stuff",
       "author": "SDM0",
       "categories": [
@@ -6050,7 +6050,7 @@
       ]
     },
     {
-      "id": "SLDTyp0@Fir",
+      "id": "Fir",
       "title": "Fir",
       "author": "SLDTyp0",
       "categories": [
@@ -6074,7 +6074,7 @@
       ]
     },
     {
-      "id": "SLDTyp0@ReducedDecks",
+      "id": "ReducedDecks",
       "title": "ReducedDecks",
       "author": "SLDTyp0",
       "categories": [
@@ -6098,7 +6098,7 @@
       ]
     },
     {
-      "id": "SLDTyp0@Typ0's Random Jokers",
+      "id": "Typ0's Random Jokers",
       "title": "Typ0's Random Jokers",
       "author": "SLDTyp0",
       "categories": [
@@ -6122,9 +6122,9 @@
       ]
     },
     {
-      "id": "SMG9000@Cryptid-MoreMarioJokers",
+      "id": "Cryptid-MoreMarioJokers",
       "title": "Cryptid-MoreMarioJokers",
-      "author": "SMG9000, Denverplays2, MarioFan597",
+      "author": "SMG9000",
       "categories": [
         "Content",
         "Joker"
@@ -6146,9 +6146,9 @@
       ]
     },
     {
-      "id": "SNC@UTY",
+      "id": "UTY",
       "title": "Kevin's UTY",
-      "author": "SurelyNotClover",
+      "author": "SNC",
       "categories": [
         "Content",
         "Joker"
@@ -6170,7 +6170,7 @@
       ]
     },
     {
-      "id": "SadCube@ArtBox",
+      "id": "ArtBox",
       "title": "ArtBox",
       "author": "SadCube",
       "categories": [
@@ -6193,7 +6193,7 @@
       ]
     },
     {
-      "id": "SamTB@BalatroGardens",
+      "id": "BalatroGardens",
       "title": "Balatro Gardens",
       "author": "SamTB",
       "categories": [
@@ -6216,7 +6216,7 @@
       ]
     },
     {
-      "id": "SauceQuest31@Sauces-Condiment-Pack",
+      "id": "Sauces-Condiment-Pack",
       "title": "Sauce's Condiment Pack",
       "author": "SauceQuest31",
       "categories": [
@@ -6240,7 +6240,7 @@
       ]
     },
     {
-      "id": "SebasContre@Sebalatro",
+      "id": "Sebalatro",
       "title": "Sebalatro",
       "author": "SebasContre",
       "categories": [
@@ -6263,7 +6263,7 @@
       ]
     },
     {
-      "id": "Shenanigans@ShenanigansDecks",
+      "id": "ShenanigansDecks",
       "title": "Shenanigans's Decks",
       "author": "Shenanigans",
       "categories": [
@@ -6286,7 +6286,7 @@
       ]
     },
     {
-      "id": "ShovelFlow@VanillaPlusDecks",
+      "id": "VanillaPlusDecks",
       "title": "Vanilla+ Decks",
       "author": "ShovelFlow",
       "categories": [
@@ -6309,7 +6309,7 @@
       ]
     },
     {
-      "id": "SiIvaGunner@Qualatro",
+      "id": "Qualatro",
       "title": "Qualatro",
       "author": "SiIvaGunner",
       "categories": [
@@ -6334,7 +6334,7 @@
       ]
     },
     {
-      "id": "Silver-Streak@CalamityDeck",
+      "id": "CalamityDeck",
       "title": "The Calamity Crew Deck",
       "author": "Silver-Streak",
       "categories": [
@@ -6357,9 +6357,9 @@
       ]
     },
     {
-      "id": "SimplyRanAShotist@IsraeliStreamerMod",
+      "id": "IsraeliStreamerMod",
       "title": "Israeli Streamer Mod",
-      "author": "SimplyRan & Shotist",
+      "author": "SimplyRanAShotist",
       "categories": [
         "Content"
       ],
@@ -6380,9 +6380,9 @@
       ]
     },
     {
-      "id": "Sinewave-Surfer-Axo@Wavemod",
+      "id": "Wavemod",
       "title": "Wavemod",
-      "author": "Sinewave Surfer Axo",
+      "author": "Sinewave-Surfer-Axo",
       "categories": [
         "Content",
         "Joker"
@@ -6404,7 +6404,7 @@
       ]
     },
     {
-      "id": "SirMaiquis@Baldatro",
+      "id": "Baldatro",
       "title": "Baldatro",
       "author": "SirMaiquis",
       "categories": [
@@ -6428,7 +6428,7 @@
       ]
     },
     {
-      "id": "SirMaiquis@TagManager",
+      "id": "TagManager",
       "title": "TagManager",
       "author": "SirMaiquis",
       "categories": [
@@ -6452,7 +6452,7 @@
       ]
     },
     {
-      "id": "SkywardTARDIS@ReverseTarotHijinks",
+      "id": "ReverseTarotHijinks",
       "title": "Reverse Tarot + Hijinks",
       "author": "SkywardTARDIS",
       "categories": [
@@ -6475,7 +6475,7 @@
       ]
     },
     {
-      "id": "SleepyG11@HandyBalatro",
+      "id": "HandyBalatro",
       "title": "HandyBalatro",
       "author": "SleepyG11",
       "categories": [
@@ -6498,7 +6498,7 @@
       ]
     },
     {
-      "id": "SleepyG11@TheEncounter",
+      "id": "TheEncounter",
       "title": "TheEncounter",
       "author": "SleepyG11",
       "categories": [
@@ -6521,7 +6521,7 @@
       ]
     },
     {
-      "id": "Sluggly@Azeroth-Balatro",
+      "id": "Azeroth-Balatro",
       "title": "Azeroth Balatro",
       "author": "Sluggly",
       "categories": [
@@ -6545,7 +6545,7 @@
       ]
     },
     {
-      "id": "Snoresville@TurbulentJokers",
+      "id": "TurbulentJokers",
       "title": "Turbulent Jokers",
       "author": "Snoresville",
       "categories": [
@@ -6569,7 +6569,7 @@
       ]
     },
     {
-      "id": "Soareverix@Reinforcement-Deck",
+      "id": "Reinforcement-Deck",
       "title": "Reinforcement Deck",
       "author": "Soareverix",
       "categories": [
@@ -6592,7 +6592,7 @@
       ]
     },
     {
-      "id": "Someone23832@RuinaDecks",
+      "id": "RuinaDecks",
       "title": "Ruina Decks",
       "author": "Someone23832",
       "categories": [
@@ -6615,7 +6615,7 @@
       ]
     },
     {
-      "id": "Somethingcom515@SealsOnEverything",
+      "id": "SealsOnEverything",
       "title": "Seals On Everything",
       "author": "Somethingcom515",
       "categories": [
@@ -6639,7 +6639,7 @@
       ]
     },
     {
-      "id": "Somethingcom515@Yorick",
+      "id": "Yorick",
       "title": "Yorick",
       "author": "Somethingcom515",
       "categories": [
@@ -6662,7 +6662,7 @@
       ]
     },
     {
-      "id": "Sonfive@PokermonPlus",
+      "id": "PokermonPlus",
       "title": "PokermonPlus",
       "author": "Sonfive",
       "categories": [
@@ -6686,7 +6686,7 @@
       ]
     },
     {
-      "id": "SparklesRolf@Furlatro",
+      "id": "Furlatro",
       "title": "Furlatro",
       "author": "SparklesRolf",
       "categories": [
@@ -6710,7 +6710,7 @@
       ]
     },
     {
-      "id": "Squidguset@TooManyDecks",
+      "id": "TooManyDecks",
       "title": "Too Many Decks",
       "author": "Squidguset",
       "categories": [
@@ -6733,9 +6733,9 @@
       ]
     },
     {
-      "id": "StarletDevil@AzzysJokers",
+      "id": "AzzysJokers",
       "title": "Azazel's Jokers",
-      "author": "Starlet Devil",
+      "author": "StarletDevil",
       "categories": [
         "Content",
         "Joker"
@@ -6757,7 +6757,7 @@
       ]
     },
     {
-      "id": "Steamodded@smods",
+      "id": "smods",
       "title": "Steamodded",
       "author": "Steamodded",
       "categories": [
@@ -6780,7 +6780,7 @@
       ]
     },
     {
-      "id": "Stellr@FearsAndPhobias",
+      "id": "FearsAndPhobias",
       "title": "Fears & Phobias",
       "author": "Stellr",
       "categories": [
@@ -6803,7 +6803,7 @@
       ]
     },
     {
-      "id": "Survivalaiden@AllinJest",
+      "id": "AllinJest",
       "title": "All in Jest",
       "author": "Survivalaiden",
       "categories": [
@@ -6826,7 +6826,7 @@
       ]
     },
     {
-      "id": "SylviBlossom@Banner",
+      "id": "Banner",
       "title": "Banner",
       "author": "SylviBlossom",
       "categories": [
@@ -6849,9 +6849,9 @@
       ]
     },
     {
-      "id": "TEOcean@mleaf233",
+      "id": "mleaf233",
       "title": "TEOcean",
-      "author": "mleaf233",
+      "author": "TEOcean",
       "categories": [
         "Quality of Life"
       ],
@@ -6872,7 +6872,7 @@
       ]
     },
     {
-      "id": "TGem7@Gem-Pokermon",
+      "id": "Gem-Pokermon",
       "title": "Gem-Pokermon",
       "author": "TGem7",
       "categories": [
@@ -6896,9 +6896,9 @@
       ]
     },
     {
-      "id": "TOGAPack@TheOneGoofAli",
+      "id": "TheOneGoofAli",
       "title": "TOGA's Stuff",
-      "author": "TheOneGoofAli",
+      "author": "TOGAPack",
       "categories": [
         "Content",
         "Joker"
@@ -6920,7 +6920,7 @@
       ]
     },
     {
-      "id": "TamerSoup625@HighestPriestess",
+      "id": "HighestPriestess",
       "title": "Highest Priestess",
       "author": "TamerSoup625",
       "categories": [
@@ -6943,7 +6943,7 @@
       ]
     },
     {
-      "id": "TeamToaster@Plantain",
+      "id": "Plantain",
       "title": "Plantain",
       "author": "TeamToaster",
       "categories": [
@@ -6967,7 +6967,7 @@
       ]
     },
     {
-      "id": "Techninja119@Judgement-ORDER",
+      "id": "Judgement-ORDER",
       "title": "Judgement ORDER",
       "author": "Techninja119",
       "categories": [
@@ -6990,9 +6990,9 @@
       ]
     },
     {
-      "id": "TetraMinus@TetraPak",
+      "id": "TetraPak",
       "title": "Tetrapak",
-      "author": "Tetraminus",
+      "author": "TetraMinus",
       "categories": [
         "Content"
       ],
@@ -7013,7 +7013,7 @@
       ]
     },
     {
-      "id": "Th30ne@GrabBag",
+      "id": "GrabBag",
       "title": "Grab Bag",
       "author": "Th30ne",
       "categories": [
@@ -7037,7 +7037,7 @@
       ]
     },
     {
-      "id": "TheCodingZombie@ColorSplashed",
+      "id": "ColorSplashed",
       "title": "ColorSplashed",
       "author": "TheCodingZombie",
       "categories": [
@@ -7060,7 +7060,7 @@
       ]
     },
     {
-      "id": "TheDoctor6615@LeviathanMod",
+      "id": "LeviathanMod",
       "title": "LeviathanMod",
       "author": "TheDoctor6615",
       "categories": [
@@ -7084,7 +7084,7 @@
       ]
     },
     {
-      "id": "TheDukeOfInfo@Balatro-Memeflyed",
+      "id": "Balatro-Memeflyed",
       "title": "Balatro (Memeflyed)",
       "author": "TheDukeOfInfo",
       "categories": [
@@ -7109,9 +7109,9 @@
       ]
     },
     {
-      "id": "TheMotherfuckingBearodactyl@Insolence",
+      "id": "Insolence",
       "title": "Insolence",
-      "author": "The Motherfucking Bearodactyl",
+      "author": "TheMotherfuckingBearodactyl",
       "categories": [
         "Content"
       ],
@@ -7132,9 +7132,9 @@
       ]
     },
     {
-      "id": "ThorsGirdle@ToxicStall",
+      "id": "ToxicStall",
       "title": "The Toxic Stall: A Pokermon addon",
-      "author": "Thor's Girdle",
+      "author": "ThorsGirdle",
       "categories": [
         "Content",
         "Joker"
@@ -7156,9 +7156,9 @@
       ]
     },
     {
-      "id": "ThreePottPie@FemJokers",
+      "id": "FemJokers",
       "title": "Jane Jokers",
-      "author": "ThreePottpie",
+      "author": "ThreePottPie",
       "categories": [
         "Resource Packs"
       ],
@@ -7179,7 +7179,7 @@
       ]
     },
     {
-      "id": "ToxicPlayer@Flushtro",
+      "id": "Flushtro",
       "title": "Flushtro",
       "author": "ToxicPlayer",
       "categories": [
@@ -7202,7 +7202,7 @@
       ]
     },
     {
-      "id": "TraditionalDimension@PantomimeParadox",
+      "id": "PantomimeParadox",
       "title": "Pantomime Paradox",
       "author": "TraditionalDimension",
       "categories": [
@@ -7226,9 +7226,9 @@
       ]
     },
     {
-      "id": "Trif3ctal@LuckyRabbit",
+      "id": "LuckyRabbit",
       "title": "Lucky Rabbit",
-      "author": "Fennex",
+      "author": "Trif3ctal",
       "categories": [
         "Content",
         "Joker"
@@ -7250,7 +7250,7 @@
       ]
     },
     {
-      "id": "Tucaonormal@LastStand",
+      "id": "LastStand",
       "title": "Last Stand",
       "author": "Tucaonormal",
       "categories": [
@@ -7273,7 +7273,7 @@
       ]
     },
     {
-      "id": "UppedHealer8521@RiffRaffling",
+      "id": "RiffRaffling",
       "title": "Riff-Raffling",
       "author": "UppedHealer8521",
       "categories": [
@@ -7296,7 +7296,7 @@
       ]
     },
     {
-      "id": "Vega@Vegas-Stuff",
+      "id": "Vegas-Stuff",
       "title": "Vega's Stuff",
       "author": "Vega",
       "categories": [
@@ -7319,7 +7319,7 @@
       ]
     },
     {
-      "id": "Virtualized@Multiplayer",
+      "id": "Multiplayer",
       "title": "Multiplayer",
       "author": "Virtualized",
       "categories": [
@@ -7344,7 +7344,7 @@
       ]
     },
     {
-      "id": "WUOTE@MagicSort",
+      "id": "MagicSort",
       "title": "MagicSort",
       "author": "WUOTE",
       "categories": [
@@ -7367,7 +7367,7 @@
       ]
     },
     {
-      "id": "WilsontheWolf@DebugPlus",
+      "id": "DebugPlus",
       "title": "DebugPlus",
       "author": "WilsontheWolf",
       "categories": [
@@ -7390,7 +7390,7 @@
       ]
     },
     {
-      "id": "YUORKI@Fazbears-Video-Poker-Simulator",
+      "id": "Fazbears-Video-Poker-Simulator",
       "title": "Fazbears-Video-Poker-Simulator",
       "author": "YUORKI",
       "categories": [
@@ -7415,7 +7415,7 @@
       ]
     },
     {
-      "id": "Yahiamice@Yahimod",
+      "id": "Yahimod",
       "title": "YAHIMOD",
       "author": "Yahiamice",
       "categories": [
@@ -7439,7 +7439,7 @@
       ]
     },
     {
-      "id": "Yaminson@LuckySeven",
+      "id": "LuckySeven",
       "title": "Lucky Seven",
       "author": "Yaminson",
       "categories": [
@@ -7462,7 +7462,7 @@
       ]
     },
     {
-      "id": "Zamos@BindingOfIsaacTarot",
+      "id": "BindingOfIsaacTarot",
       "title": "Binding of Isaac Tarot",
       "author": "Zamos",
       "categories": [
@@ -7485,7 +7485,7 @@
       ]
     },
     {
-      "id": "Zinaida@Fabulous-Beasts",
+      "id": "Fabulous-Beasts",
       "title": "Fabulous Beasts",
       "author": "Zinaida",
       "categories": [
@@ -7510,7 +7510,7 @@
       ]
     },
     {
-      "id": "Zinaida@Taoist-Talismans",
+      "id": "Taoist-Talismans",
       "title": "Taoist Talismans",
       "author": "Zinaida",
       "categories": [
@@ -7535,7 +7535,7 @@
       ]
     },
     {
-      "id": "Zoker@ZokersModMenu",
+      "id": "ZokersModMenu",
       "title": "ZokersModMenu",
       "author": "Zoker",
       "categories": [
@@ -7560,7 +7560,7 @@
       ]
     },
     {
-      "id": "acetna@Quilombo",
+      "id": "Quilombo",
       "title": "Quilombo",
       "author": "acetna",
       "categories": [
@@ -7583,7 +7583,7 @@
       ]
     },
     {
-      "id": "akashrtd@BalatroMuteUnFocus",
+      "id": "BalatroMuteUnFocus",
       "title": "BalatroMuteUnFocus",
       "author": "akashrtd",
       "categories": [
@@ -7606,7 +7606,7 @@
       ]
     },
     {
-      "id": "alexgot1151@Brainstorm-Enhanced",
+      "id": "Brainstorm-Enhanced",
       "title": "Brainstorm-Enhanced",
       "author": "alexgot1151",
       "categories": [
@@ -7631,7 +7631,7 @@
       ]
     },
     {
-      "id": "ba11e@Joker-Run-Info",
+      "id": "Joker-Run-Info",
       "title": "Joker Run Info",
       "author": "ba11e",
       "categories": [
@@ -7655,7 +7655,7 @@
       ]
     },
     {
-      "id": "ba11e@Stacked-Editions",
+      "id": "Stacked-Editions",
       "title": "Stacked Editions",
       "author": "ba11e",
       "categories": [
@@ -7678,7 +7678,7 @@
       ]
     },
     {
-      "id": "baimao@Partner",
+      "id": "Partner",
       "title": "Partner",
       "author": "baimao",
       "categories": [
@@ -7702,7 +7702,7 @@
       ]
     },
     {
-      "id": "baltdev@BaltsWarehouse",
+      "id": "BaltsWarehouse",
       "title": "BaltsWarehouse",
       "author": "baltdev",
       "categories": [
@@ -7726,7 +7726,7 @@
       ]
     },
     {
-      "id": "baltdev@HQShaders",
+      "id": "HQShaders",
       "title": "HQShaders",
       "author": "baltdev",
       "categories": [
@@ -7749,7 +7749,7 @@
       ]
     },
     {
-      "id": "baltdev@Inkbleed",
+      "id": "Inkbleed",
       "title": "Inkbleed",
       "author": "baltdev",
       "categories": [
@@ -7772,7 +7772,7 @@
       ]
     },
     {
-      "id": "baltdev@Jimbotomy",
+      "id": "Jimbotomy",
       "title": "Jimbotomy",
       "author": "baltdev",
       "categories": [
@@ -7796,7 +7796,7 @@
       ]
     },
     {
-      "id": "baltdev@Lightspeed",
+      "id": "Lightspeed",
       "title": "Lightspeed",
       "author": "baltdev",
       "categories": [
@@ -7819,7 +7819,7 @@
       ]
     },
     {
-      "id": "baltdev@Madness",
+      "id": "Madness",
       "title": "Madness",
       "author": "baltdev",
       "categories": [
@@ -7843,7 +7843,7 @@
       ]
     },
     {
-      "id": "baltdev@Overstock",
+      "id": "Overstock",
       "title": "Overstock",
       "author": "baltdev",
       "categories": [
@@ -7866,7 +7866,7 @@
       ]
     },
     {
-      "id": "baltdev@TokiPona",
+      "id": "TokiPona",
       "title": "Toki Pona",
       "author": "baltdev",
       "categories": [
@@ -7889,7 +7889,7 @@
       ]
     },
     {
-      "id": "baltdev@WOKElatro",
+      "id": "WOKElatro",
       "title": "WOKElatro",
       "author": "baltdev",
       "categories": [
@@ -7913,7 +7913,7 @@
       ]
     },
     {
-      "id": "bryanthaboi@Solatro",
+      "id": "Solatro",
       "title": "Solatro",
       "author": "bryanthaboi",
       "categories": [
@@ -7937,7 +7937,7 @@
       ]
     },
     {
-      "id": "bus693@NoTilt",
+      "id": "NoTilt",
       "title": "NoTilt",
       "author": "bus693",
       "categories": [
@@ -7960,7 +7960,7 @@
       ]
     },
     {
-      "id": "bus693@SweetShop",
+      "id": "SweetShop",
       "title": "SweetShop",
       "author": "bus693",
       "categories": [
@@ -7983,7 +7983,7 @@
       ]
     },
     {
-      "id": "cassiepepsi@SillyDecks",
+      "id": "SillyDecks",
       "title": "Silly Decks",
       "author": "cassiepepsi",
       "categories": [
@@ -8006,7 +8006,7 @@
       ]
     },
     {
-      "id": "cassiepepsi@TDQDeck",
+      "id": "TDQDeck",
       "title": "The Dragon Quest Deck",
       "author": "cassiepepsi",
       "categories": [
@@ -8029,7 +8029,7 @@
       ]
     },
     {
-      "id": "cassiepepsi@TheLibrary",
+      "id": "TheLibrary",
       "title": "The Library",
       "author": "cassiepepsi",
       "categories": [
@@ -8053,7 +8053,7 @@
       ]
     },
     {
-      "id": "cat.bread@Casey",
+      "id": "Casey",
       "title": "Casey",
       "author": "cat.bread",
       "categories": [
@@ -8076,7 +8076,7 @@
       ]
     },
     {
-      "id": "cg223@Joker-Loadouts",
+      "id": "Joker-Loadouts",
       "title": "Joker Loadouts",
       "author": "cg223",
       "categories": [
@@ -8099,7 +8099,7 @@
       ]
     },
     {
-      "id": "cg223@TooManyJokers",
+      "id": "TooManyJokers",
       "title": "Too Many Jokers",
       "author": "cg223",
       "categories": [
@@ -8122,9 +8122,9 @@
       ]
     },
     {
-      "id": "chowder908-Mossloth-JackMacWindows-korgeaux@Twitch-Itegration",
+      "id": "Twitch-Itegration",
       "title": "Twitch Itegration",
-      "author": "chowder908, Mossloth, JackMacWindows, korgeaux",
+      "author": "chowder908-Mossloth-JackMacWindows-korgeaux",
       "categories": [
         "Content",
         "Joker",
@@ -8150,7 +8150,7 @@
       ]
     },
     {
-      "id": "cloudzXIII@KHJokers",
+      "id": "KHJokers",
       "title": "Final Mix",
       "author": "cloudzXIII",
       "categories": [
@@ -8174,7 +8174,7 @@
       ]
     },
     {
-      "id": "cokeblock@cokelatro",
+      "id": "cokelatro",
       "title": "cokelatro",
       "author": "cokeblock",
       "categories": [
@@ -8197,7 +8197,7 @@
       ]
     },
     {
-      "id": "colonthreeing@CreditLib",
+      "id": "CreditLib",
       "title": "CreditLib",
       "author": "colonthreeing",
       "categories": [
@@ -8220,7 +8220,7 @@
       ]
     },
     {
-      "id": "colonthreeing@SealSeal",
+      "id": "SealSeal",
       "title": "SealSeal",
       "author": "colonthreeing",
       "categories": [
@@ -8243,7 +8243,7 @@
       ]
     },
     {
-      "id": "colonthreeing@glumbus",
+      "id": "glumbus",
       "title": "glumbus",
       "author": "colonthreeing",
       "categories": [
@@ -8266,9 +8266,9 @@
       ]
     },
     {
-      "id": "cozmo496@marco",
+      "id": "marco",
       "title": "Marco",
-      "author": "Cozmo496",
+      "author": "cozmo496",
       "categories": [
         "Resource Packs"
       ],
@@ -8289,9 +8289,9 @@
       ]
     },
     {
-      "id": "crmykybord@Sculio",
+      "id": "Sculio",
       "title": "Sculio",
-      "author": "crmykybord, BrandonE, chily",
+      "author": "crmykybord",
       "categories": [
         "Content",
         "Joker"
@@ -8313,7 +8313,7 @@
       ]
     },
     {
-      "id": "cybernetic@Jimbosplus",
+      "id": "Jimbosplus",
       "title": "Jimbos+",
       "author": "cybernetic",
       "categories": [
@@ -8337,9 +8337,9 @@
       ]
     },
     {
-      "id": "danitsdev@Lost_Edition",
+      "id": "Lost_Edition",
       "title": "Lost Edition",
-      "author": "ClickNoPaulo & Danitsdev",
+      "author": "danitsdev",
       "categories": [
         "Content",
         "Joker",
@@ -8362,7 +8362,7 @@
       ]
     },
     {
-      "id": "dekta@Magician",
+      "id": "Magician",
       "title": "Magician",
       "author": "dekta",
       "categories": [
@@ -8387,7 +8387,7 @@
       ]
     },
     {
-      "id": "draconacht@nyankatro",
+      "id": "nyankatro",
       "title": "nyankatro [a The Battle Cats mod]",
       "author": "draconacht",
       "categories": [
@@ -8411,7 +8411,7 @@
       ]
     },
     {
-      "id": "ebicthings@Acepack",
+      "id": "Acepack",
       "title": "Acepack",
       "author": "ebicthings",
       "categories": [
@@ -8435,7 +8435,7 @@
       ]
     },
     {
-      "id": "fives@Temperance",
+      "id": "Temperance",
       "title": "Temperance",
       "author": "fives",
       "categories": [
@@ -8458,7 +8458,7 @@
       ]
     },
     {
-      "id": "frostice482@Amulet",
+      "id": "Amulet",
       "title": "Amulet",
       "author": "frostice482",
       "categories": [
@@ -8481,7 +8481,7 @@
       ]
     },
     {
-      "id": "frostice482@imm",
+      "id": "imm",
       "title": "imm",
       "author": "frostice482",
       "categories": [
@@ -8505,7 +8505,7 @@
       ]
     },
     {
-      "id": "gyrogold@BALEGGTRO",
+      "id": "BALEGGTRO",
       "title": "BALEGGTRO",
       "author": "gyrogold",
       "categories": [
@@ -8530,7 +8530,7 @@
       ]
     },
     {
-      "id": "heyandresito@elsupermoddemierdaquenadieentiendenientenderan",
+      "id": "elsupermoddemierdaquenadieentiendenientenderan",
       "title": "El super mod de mierda que nadie entiende (ni entenderan)",
       "author": "heyandresito",
       "categories": [
@@ -8553,7 +8553,7 @@
       ]
     },
     {
-      "id": "hypabeast_@Hypers-Stuff",
+      "id": "Hypers-Stuff",
       "title": "Hyper's Stuff",
       "author": "hypabeast_",
       "categories": [
@@ -8577,9 +8577,9 @@
       ]
     },
     {
-      "id": "iJohnMaged@MultiJokers",
+      "id": "MultiJokers",
       "title": "Multi Jokers",
-      "author": "JohnMaged",
+      "author": "iJohnMaged",
       "categories": [
         "Joker"
       ],
@@ -8600,9 +8600,9 @@
       ]
     },
     {
-      "id": "its-edalo@slay-the-jokers",
+      "id": "slay-the-jokers",
       "title": "Slay the Jokers",
-      "author": "edalo",
+      "author": "its-edalo",
       "categories": [
         "Quality of Life"
       ],
@@ -8623,7 +8623,7 @@
       ]
     },
     {
-      "id": "jagodben@BalatroStats",
+      "id": "BalatroStats",
       "title": "Balatro Stats",
       "author": "jagodben",
       "categories": [
@@ -8646,7 +8646,7 @@
       ]
     },
     {
-      "id": "joelmforsyth@Held-Joker",
+      "id": "Held-Joker",
       "title": "Held Joker",
       "author": "joelmforsyth",
       "categories": [
@@ -8669,9 +8669,9 @@
       ]
     },
     {
-      "id": "jumbocarrot0@ReduxArcanum",
+      "id": "ReduxArcanum",
       "title": "Redux Arcanum",
-      "author": "itayfeder, Lyman, jumbocarrot0",
+      "author": "jumbocarrot0",
       "categories": [
         "Content"
       ],
@@ -8692,7 +8692,7 @@
       ]
     },
     {
-      "id": "kasimeka@mobile-essentials",
+      "id": "mobile-essentials",
       "title": "mobile essentials",
       "author": "kasimeka",
       "categories": [
@@ -8716,7 +8716,7 @@
       ]
     },
     {
-      "id": "kasimeka@typist",
+      "id": "typist",
       "title": "typist",
       "author": "kasimeka",
       "categories": [
@@ -8740,7 +8740,7 @@
       ]
     },
     {
-      "id": "kcgidw@kcvanilla",
+      "id": "kcvanilla",
       "title": "KCVanilla",
       "author": "kcgidw",
       "categories": [
@@ -8763,9 +8763,9 @@
       ]
     },
     {
-      "id": "lammies-yum@slaythespirejokers",
+      "id": "slaythespirejokers",
       "title": "Slay The Spire Jokers",
-      "author": "lammies.yum",
+      "author": "lammies-yum",
       "categories": [
         "Joker"
       ],
@@ -8786,9 +8786,9 @@
       ]
     },
     {
-      "id": "lordruby@Entropy",
+      "id": "Entropy",
       "title": "Entropy",
-      "author": "Ruby",
+      "author": "lordruby",
       "categories": [
         "Content"
       ],
@@ -8809,7 +8809,7 @@
       ]
     },
     {
-      "id": "lusciousdev@LushMod",
+      "id": "LushMod",
       "title": "LushMod",
       "author": "lusciousdev",
       "categories": [
@@ -8832,7 +8832,7 @@
       ]
     },
     {
-      "id": "mine12king@Thespian-Jokers",
+      "id": "Thespian-Jokers",
       "title": "Thespian Jokers",
       "author": "mine12king",
       "categories": [
@@ -8855,7 +8855,7 @@
       ]
     },
     {
-      "id": "mine4114@ELWatro",
+      "id": "ELWatro",
       "title": "ELWatro",
       "author": "mine4114",
       "categories": [
@@ -8879,9 +8879,9 @@
       ]
     },
     {
-      "id": "misenrol@TerrariaXBalatro",
+      "id": "TerrariaXBalatro",
       "title": "TerrariaXBalatro",
-      "author": "Misernol",
+      "author": "misenrol",
       "categories": [
         "Content",
         "Joker"
@@ -8903,9 +8903,9 @@
       ]
     },
     {
-      "id": "morne@tay",
+      "id": "tay",
       "title": "Morne",
-      "author": "Tay",
+      "author": "morne",
       "categories": [
         "Content",
         "Joker"
@@ -8927,7 +8927,7 @@
       ]
     },
     {
-      "id": "ouiiskey@Manifold",
+      "id": "Manifold",
       "title": "Manifold",
       "author": "ouiiskey",
       "categories": [
@@ -8951,7 +8951,7 @@
       ]
     },
     {
-      "id": "packid879@AlbertAndMart",
+      "id": "AlbertAndMart",
       "title": "Albert and Mart",
       "author": "packid879",
       "categories": [
@@ -8974,7 +8974,7 @@
       ]
     },
     {
-      "id": "packid879@KarambitBlueGem",
+      "id": "KarambitBlueGem",
       "title": "Karambit Blue Gem",
       "author": "packid879",
       "categories": [
@@ -8997,7 +8997,7 @@
       ]
     },
     {
-      "id": "pawPatoes@Balatromodded",
+      "id": "Balatromodded",
       "title": "Balatromodded",
       "author": "pawPatoes",
       "categories": [
@@ -9022,7 +9022,7 @@
       ]
     },
     {
-      "id": "pawPatoes@Paws-Shenanigans",
+      "id": "Paws-Shenanigans",
       "title": "Paw's Shenanigans",
       "author": "pawPatoes",
       "categories": [
@@ -9048,7 +9048,7 @@
       ]
     },
     {
-      "id": "pawPatoes@RedPrint",
+      "id": "RedPrint",
       "title": "RedPrint",
       "author": "pawPatoes",
       "categories": [
@@ -9074,7 +9074,7 @@
       ]
     },
     {
-      "id": "pawPatoes@oops_paws",
+      "id": "oops_paws",
       "title": "oops all paw's",
       "author": "pawPatoes",
       "categories": [
@@ -9097,7 +9097,7 @@
       ]
     },
     {
-      "id": "pawPatoes@roze",
+      "id": "roze",
       "title": "Roze's Jokers",
       "author": "pawPatoes",
       "categories": [
@@ -9121,7 +9121,7 @@
       ]
     },
     {
-      "id": "peakshitposts@peakshitmod",
+      "id": "peakshitmod",
       "title": "peakshitmod",
       "author": "peakshitposts",
       "categories": [
@@ -9145,7 +9145,7 @@
       ]
     },
     {
-      "id": "pi_cubed@pi_cubedsJokers",
+      "id": "pi_cubedsJokers",
       "title": "pi_cubed's Jokers",
       "author": "pi_cubed",
       "categories": [
@@ -9168,7 +9168,7 @@
       ]
     },
     {
-      "id": "probablyJonah@Jonahtro",
+      "id": "Jonahtro",
       "title": "Jonahtro",
       "author": "probablyJonah",
       "categories": [
@@ -9193,9 +9193,9 @@
       ]
     },
     {
-      "id": "r0maps@GigaJokers",
+      "id": "GigaJokers",
       "title": "GigaJokers",
-      "author": "r0maps, Azurysu",
+      "author": "r0maps",
       "categories": [
         "Resource Packs"
       ],
@@ -9216,9 +9216,9 @@
       ]
     },
     {
-      "id": "riosodu@black-seal",
+      "id": "black-seal",
       "title": "Black Seal",
-      "author": "Riosodu",
+      "author": "riosodu",
       "categories": [
         "Content"
       ],
@@ -9239,9 +9239,9 @@
       ]
     },
     {
-      "id": "riosodu@qol-bundle",
+      "id": "qol-bundle",
       "title": "QoL Bundle",
-      "author": "Riosodu",
+      "author": "riosodu",
       "categories": [
         "Quality of Life"
       ],
@@ -9262,9 +9262,9 @@
       ]
     },
     {
-      "id": "riosodu@rebalanced-stakes",
+      "id": "rebalanced-stakes",
       "title": "Rebalanced Stakes",
-      "author": "Riosodu",
+      "author": "riosodu",
       "categories": [
         "Content",
         "Miscellaneous"
@@ -9286,7 +9286,7 @@
       ]
     },
     {
-      "id": "robertbsmith@BalatroAudioHotSwitch",
+      "id": "BalatroAudioHotSwitch",
       "title": "BalatroAudioHotSwitch",
       "author": "robertbsmith",
       "categories": [
@@ -9309,7 +9309,7 @@
       ]
     },
     {
-      "id": "rodney@EpicJokers",
+      "id": "EpicJokers",
       "title": "Epic Jokers",
       "author": "rodney",
       "categories": [
@@ -9332,9 +9332,9 @@
       ]
     },
     {
-      "id": "salpootsy@BossJokers",
+      "id": "BossJokers",
       "title": "Boss Jokers",
-      "author": "Salpootsy",
+      "author": "salpootsy",
       "categories": [
         "Content",
         "Joker"
@@ -9356,9 +9356,9 @@
       ]
     },
     {
-      "id": "sensen-gaming@TheBalalaExperience",
+      "id": "TheBalalaExperience",
       "title": "The Balala Experience",
-      "author": "Sen",
+      "author": "sensen-gaming",
       "categories": [
         "Content",
         "Joker"
@@ -9380,7 +9380,7 @@
       ]
     },
     {
-      "id": "spire-winder@Balatro-Draft",
+      "id": "Balatro-Draft",
       "title": "Balatro Draft",
       "author": "spire-winder",
       "categories": [
@@ -9403,9 +9403,9 @@
       ]
     },
     {
-      "id": "stupxd@Blueprint",
+      "id": "Blueprint",
       "title": "Blueprint",
-      "author": "Stupxd",
+      "author": "stupxd",
       "categories": [
         "Quality of Life"
       ],
@@ -9426,7 +9426,7 @@
       ]
     },
     {
-      "id": "stupxd@Cartomancer",
+      "id": "Cartomancer",
       "title": "Cartomancer",
       "author": "stupxd",
       "categories": [
@@ -9449,7 +9449,7 @@
       ]
     },
     {
-      "id": "subspaceember@Signalis-Tarot-Cards",
+      "id": "Signalis-Tarot-Cards",
       "title": "Signalis Tarot Cards",
       "author": "subspaceember",
       "categories": [
@@ -9472,7 +9472,7 @@
       ]
     },
     {
-      "id": "sup3p@JokerHub",
+      "id": "JokerHub",
       "title": "JokerHub",
       "author": "sup3p",
       "categories": [
@@ -9495,7 +9495,7 @@
       ]
     },
     {
-      "id": "swagdoe@Shop-Undo",
+      "id": "Shop-Undo",
       "title": "Shop Undo",
       "author": "swagdoe",
       "categories": [
@@ -9519,7 +9519,7 @@
       ]
     },
     {
-      "id": "symmetricspiral@symmetricspiral's Pokemon Skins",
+      "id": "symmetricspiral's Pokemon Skins",
       "title": "symmetricspiral's Pokemon Skins",
       "author": "symmetricspiral",
       "categories": [
@@ -9542,9 +9542,9 @@
       ]
     },
     {
-      "id": "termisaal@MainMenuTweaks",
+      "id": "MainMenuTweaks",
       "title": "Main Menu Tweaks",
-      "author": "termisaal & seven_kd_irl",
+      "author": "termisaal",
       "categories": [
         "Quality of Life"
       ],
@@ -9565,9 +9565,9 @@
       ]
     },
     {
-      "id": "theAstra@Maximus",
+      "id": "Maximus",
       "title": "Maximus",
-      "author": "theAstra, Maxiss02",
+      "author": "theAstra",
       "categories": [
         "Content"
       ],
@@ -9588,7 +9588,7 @@
       ]
     },
     {
-      "id": "theAstra@SuperRogue",
+      "id": "SuperRogue",
       "title": "SuperRogue",
       "author": "theAstra",
       "categories": [
@@ -9611,7 +9611,7 @@
       ]
     },
     {
-      "id": "thegloopsy@Abbienanigans",
+      "id": "Abbienanigans",
       "title": "Abbienanigans",
       "author": "thegloopsy",
       "categories": [
@@ -9635,7 +9635,7 @@
       ]
     },
     {
-      "id": "thiagolela7@Bananatro",
+      "id": "Bananatro",
       "title": "Bananatro",
       "author": "thiagolela7",
       "categories": [
@@ -9660,7 +9660,7 @@
       ]
     },
     {
-      "id": "uXs@Marvel'sMidnightSunsTarot",
+      "id": "Marvel'sMidnightSunsTarot",
       "title": "Marvel's Midnight Suns Tarot",
       "author": "uXs",
       "categories": [
@@ -9683,7 +9683,7 @@
       ]
     },
     {
-      "id": "uXs@TheBookOfThothTarot",
+      "id": "TheBookOfThothTarot",
       "title": "The Book of Thoth Tarot",
       "author": "uXs",
       "categories": [
@@ -9706,7 +9706,7 @@
       ]
     },
     {
-      "id": "unfancy@imbored",
+      "id": "imbored",
       "title": "imbored",
       "author": "unfancy",
       "categories": [
@@ -9729,7 +9729,7 @@
       ]
     },
     {
-      "id": "wingedcatgirl@GoToBedMinty",
+      "id": "GoToBedMinty",
       "title": "Go to bed, Minty",
       "author": "wingedcatgirl",
       "categories": [
@@ -9753,7 +9753,7 @@
       ]
     },
     {
-      "id": "wingedcatgirl@Menthol",
+      "id": "Menthol",
       "title": "Menthol",
       "author": "wingedcatgirl",
       "categories": [
@@ -9776,7 +9776,7 @@
       ]
     },
     {
-      "id": "wingedcatgirl@SpectrumFramework",
+      "id": "SpectrumFramework",
       "title": "Spectrum Framework",
       "author": "wingedcatgirl",
       "categories": [
@@ -9800,7 +9800,7 @@
       ]
     },
     {
-      "id": "wingedcatgirl@reUnlockAll",
+      "id": "reUnlockAll",
       "title": "re:Unlock All",
       "author": "wingedcatgirl",
       "categories": [
@@ -9824,7 +9824,7 @@
       ]
     },
     {
-      "id": "wk@totallybalanced",
+      "id": "totallybalanced",
       "title": "totally balanced",
       "author": "wk",
       "categories": [
@@ -9849,7 +9849,7 @@
       ]
     },
     {
-      "id": "xz47sv@Subtractions",
+      "id": "Subtractions",
       "title": "Subtractions",
       "author": "xz47sv",
       "categories": [
@@ -9873,7 +9873,7 @@
       ]
     },
     {
-      "id": "xz7sv@ModUtils",
+      "id": "ModUtils",
       "title": "ModUtils",
       "author": "xz7sv",
       "categories": [
@@ -9896,7 +9896,7 @@
       ]
     },
     {
-      "id": "yvarrsrwra@jjk_cursed-deck",
+      "id": "jjk_cursed-deck",
       "title": "JJK Curses Deck",
       "author": "yvarrsrwra",
       "categories": [
@@ -9920,7 +9920,7 @@
       ]
     },
     {
-      "id": "ywssp@ColoredSuitTarots",
+      "id": "ColoredSuitTarots",
       "title": "Colored Suit Tarots",
       "author": "ywssp",
       "categories": [
