@@ -66,11 +66,20 @@ def released_at_iso(meta: dict) -> str | None:
 def build_entry(slug: str, meta: dict, folder: Path, override: dict) -> dict:
     version = override.get("version") or meta.get("version")
     download_url = meta.get("downloadURL")
+    # Folders follow Author@Modname (enforced by check-mod.yml), so this
+    # split is safe even though meta.json's own "author" field is no longer
+    # what's used below.
+    path_author, _, path_mod_name = slug.partition("@")
 
     return {
-        "id": slug,
+        # meta.json's own "id" is the mod's real Steamodded/manifest id when
+        # present (rare today -- most mods don't declare one yet), which is
+        # what matters for matching against what the game client actually
+        # loads. Falls back to the folder's Modname half, not the full slug,
+        # since that's the closest available approximation of that same id.
+        "id": meta.get("id") or path_mod_name or slug,
         "title": meta.get("title", slug),
-        "author": meta.get("author", "unknown"),
+        "author": path_author or meta.get("author", "unknown"),
         "categories": override.get("categoryOverride") or meta.get("categories", []),
         "requiresSteamodded": bool(meta.get("requires-steamodded", True)),
         "requiresTalisman": bool(meta.get("requires-talisman", False)),
@@ -150,9 +159,32 @@ def main() -> int:
             override, _ = load_override(slug)
             entries[slug] = build_entry(slug, meta, override_folder, override)
 
+    # "id" is no longer the folder slug (see build_entry) -- meta.json's own
+    # "id" isn't guaranteed unique across mods, and neither is its fallback
+    # (the folder's Modname half, which two different authors could share).
+    # mods-sync.service.ts upserts mod_registry by this id as its primary
+    # key, so a collision would silently overwrite one mod's row with
+    # another's. Keep the first (by slug, for a stable/reproducible result)
+    # and drop the rest with a warning rather than corrupting the registry.
+    claimed_by: dict[str, str] = {}
+    deduped: dict[str, dict] = {}
+    id_collisions = 0
+    for slug in sorted(entries):
+        entry = entries[slug]
+        mod_id = entry["id"]
+        if mod_id in claimed_by:
+            print(
+                f"warning: skipping {slug} -- id '{mod_id}' already claimed by {claimed_by[mod_id]}",
+                file=sys.stderr,
+            )
+            id_collisions += 1
+            continue
+        claimed_by[mod_id] = slug
+        deduped[slug] = entry
+
     output = {
         "generatedAt": datetime.now(tz=timezone.utc).isoformat(),
-        "mods": [entries[slug] for slug in sorted(entries)],
+        "mods": [deduped[slug] for slug in sorted(deduped)],
     }
 
     DIST_DIR.mkdir(exist_ok=True)
@@ -160,7 +192,12 @@ def main() -> int:
         json.dump(output, f, indent=2)
         f.write("\n")
 
-    print(f"Wrote {len(output['mods'])} mods to {OUTPUT_PATH}" + (f" ({skipped} skipped)" if skipped else ""))
+    suffixes = []
+    if skipped:
+        suffixes.append(f"{skipped} skipped")
+    if id_collisions:
+        suffixes.append(f"{id_collisions} id collisions")
+    print(f"Wrote {len(output['mods'])} mods to {OUTPUT_PATH}" + (f" ({', '.join(suffixes)})" if suffixes else ""))
     return 0
 
 
