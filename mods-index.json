@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T14:23:19.494538+00:00",
+  "generatedAt": "2026-08-06T14:58:05.347505+00:00",
   "mods": [
     {
       "id": "FickleFox",
@@ -8642,6 +8642,29 @@
           "version": "v0.3.0",
           "downloadUrl": "https://github.com/jagodben/Balatro-Record-Stats-Mod/releases/latest/download/BalatroStats.zip",
           "releasedAt": "2026-07-27T22:55:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Friends-of-BalatrOwen",
+      "title": "Friends of BalatrOwen",
+      "author": "jellyyman",
+      "categories": [
+        "Resource Packs"
+      ],
+      "requiresSteamodded": true,
+      "requiresTalisman": false,
+      "repoUrl": "https://github.com/jellyyman/Friends-of-BalatrOwen",
+      "thumbnailUrl": null,
+      "description": "# Friends of BalatrOwen\n\nA [Malverk](https://github.com/Eremel/Malverk)-dependent texture pack that reskins jokers,\ntarots, vouchers, and more with art featuring players from the Balatro Multiplayer community.\n\nCurrently includes 65 jokers, 8 tarots, 4 vouchers, and 3 spectrals.\n\nWant to be featured? Reach out to jellyyman on Discord.\n\n**Requires:** [Steamodded](https://github.com/Steamodded/smods) and [Malverk](https://github.com/Eremel/Malverk).",
+      "latestVersion": "2.0.0",
+      "latestDownloadUrl": "https://raw.githubusercontent.com/jellyyman/Friends-of-BalatrOwen/main/Friends-of-BalatrOwen.zip",
+      "allowedInRanked": true,
+      "versions": [
+        {
+          "version": "2.0.0",
+          "downloadUrl": "https://raw.githubusercontent.com/jellyyman/Friends-of-BalatrOwen/main/Friends-of-BalatrOwen.zip",
+          "releasedAt": "2026-08-05T10:49:23+00:00"
         }
       ]
     },
