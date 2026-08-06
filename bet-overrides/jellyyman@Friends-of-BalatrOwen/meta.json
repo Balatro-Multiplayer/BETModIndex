@@ -1,0 +1,14 @@
+{
+  "title": "Friends of BalatrOwen",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Resource Packs"
+  ],
+  "author": "jellyyman",
+  "repo": "https://github.com/jellyyman/Friends-of-BalatrOwen",
+  "downloadURL": "https://raw.githubusercontent.com/jellyyman/Friends-of-BalatrOwen/main/Friends-of-BalatrOwen.zip",
+  "automatic-version-check": false,
+  "version": "2.0.0",
+  "last-updated": 1785926963
+}
