@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T14:58:05.347505+00:00",
+  "generatedAt": "2026-08-06T17:42:12.656895+00:00",
   "mods": [
     {
       "id": "FickleFox",
@@ -6488,7 +6488,7 @@
       "description": "Handy - a lovely mod which adds new controls and keybinds to the game\ndesigned for faster and easier playing Vanilla and Modded Balatro.\n\n- Vanilla-friendly: no new run required; stability is priority, safe for use in base game and Multiplayer;\n- Works without Steamodded: but included supports for variety of different mods (NotJustYet, Nopeus, Cryptid);\n- Fast hand selection: highlight cards just by hovering them;\n- Keybinds for all vanilla buttons and actions: play, discard, hand sorting, cash out, shop reroll, view deck, and more;\n- Game speed: adjust game speed up to x512 in-run;\n- Animation skip: instant scoring and removing unnecessary animations to speedup game even further;\n- Quick Buy/Sell/Use: controls to buy, sell or use cards faster;\n- Selection movement: more precise management on large amoung of jokers or consumables;\n- Full control: each feature can be disabled/enabled individually, each keybind can be reassigned to any keyboard or mouse button;\n- Gamepad support: most features can be used with gamepad aswell;\n- Presets: save up to 3 mod settings layouts and switch between them in-run to have more freedom with limited amount of buttons;\n- ...and more!",
       "latestVersion": "c65713d",
       "latestDownloadUrl": "https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip",
-      "allowedInRanked": true,
+      "allowedInRanked": false,
       "versions": [
         {
           "version": "c65713d",
@@ -7334,12 +7334,60 @@
       "description": "# A Balatro Multiplayer Mod\n\nCompete with your friends in Balatro! Developed by Virtualized.\n\n## How it works\n\nJoin a lobby with a friend, some blinds will be replaced with PvP Blinds where you must score higher than your opponent or lose a life!\n\n## Do I need to start a server to play with my friends?\n\nNo, there is an official server that you will automatically connect to when you start the game with the mod installed, although you can host one yourself if you want to ([download the server files here](https://github.com/V-rtualized/BalatroMultiplayerAPI-Server)). You can also find random people to play with by joining the Balatro Multiplayer discord: https://discord.gg/W22FEqVWsq",
       "latestVersion": "v0.5.4",
       "latestDownloadUrl": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
-      "allowedInRanked": false,
+      "allowedInRanked": true,
       "versions": [
         {
           "version": "v0.5.4",
           "downloadUrl": "https://github.com/Balatro-Multiplayer/BalatroMultiplayer/releases/latest/download/BalatroMultiplayer.zip",
           "releasedAt": "2026-08-01T16:49:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "MultiplayerAPI",
+      "title": "Multiplayer API",
+      "author": "Virtualized",
+      "categories": [
+        "API",
+        "Technical"
+      ],
+      "requiresSteamodded": true,
+      "requiresTalisman": false,
+      "repoUrl": "https://github.com/Balatro-Multiplayer/BalatroMultiplayerAPI",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Balatro-Multiplayer/BETModIndex/main/bet-overrides/Virtualized@MultiplayerAPI/thumbnail.jpg",
+      "description": "# Multiplayer API\n\nThe shared library that powers Balatro Multiplayer mods.\n\n## Do I need this on its own?\n\nOnly if a mod you're using depends on it, like [Multiplayer Speedrunning](https://github.com/V-rtualized/BalatroSpeedrunning).",
+      "latestVersion": "13548cf",
+      "latestDownloadUrl": "https://github.com/Balatro-Multiplayer/BalatroMultiplayerAPI/archive/refs/heads/main.zip",
+      "allowedInRanked": true,
+      "versions": [
+        {
+          "version": "13548cf",
+          "downloadUrl": "https://github.com/Balatro-Multiplayer/BalatroMultiplayerAPI/archive/refs/heads/main.zip",
+          "releasedAt": "2026-07-30T17:30:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "MultiplayerSPDRN",
+      "title": "Multiplayer Speedrunning",
+      "author": "Virtualized",
+      "categories": [
+        "Content",
+        "Technical"
+      ],
+      "requiresSteamodded": true,
+      "requiresTalisman": false,
+      "repoUrl": "https://github.com/V-rtualized/BalatroSpeedrunning",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Balatro-Multiplayer/BETModIndex/main/bet-overrides/Virtualized@MultiplayerSPDRN/thumbnail.jpg",
+      "description": "# Multiplayer Speedrunning\n\nCompete against other players in real-time speedrun matches, built on top of the Multiplayer API.",
+      "latestVersion": "3c69a59",
+      "latestDownloadUrl": "https://github.com/V-rtualized/BalatroSpeedrunning/archive/refs/heads/main.zip",
+      "allowedInRanked": true,
+      "versions": [
+        {
+          "version": "3c69a59",
+          "downloadUrl": "https://github.com/V-rtualized/BalatroSpeedrunning/archive/refs/heads/main.zip",
+          "releasedAt": "2026-07-30T17:31:25+00:00"
         }
       ]
     },
