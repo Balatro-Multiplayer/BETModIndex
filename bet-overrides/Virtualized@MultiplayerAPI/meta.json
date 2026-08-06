@@ -1,0 +1,16 @@
+{
+  "title": "Multiplayer API",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "API",
+    "Technical"
+  ],
+  "author": "Virtualized",
+  "repo": "https://github.com/Balatro-Multiplayer/BalatroMultiplayerAPI",
+  "downloadURL": "https://github.com/Balatro-Multiplayer/BalatroMultiplayerAPI/archive/refs/heads/main.zip",
+  "folderName": "MultiplayerAPI",
+  "automatic-version-check": true,
+  "version": "13548cf",
+  "last-updated": 1785432659
+}

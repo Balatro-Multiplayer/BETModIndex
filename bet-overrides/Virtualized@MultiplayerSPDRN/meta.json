@@ -1,0 +1,16 @@
+{
+  "title": "Multiplayer Speedrunning",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Technical"
+  ],
+  "author": "Virtualized, Bean & ArtifexDigital",
+  "repo": "https://github.com/V-rtualized/BalatroSpeedrunning",
+  "downloadURL": "https://github.com/V-rtualized/BalatroSpeedrunning/archive/refs/heads/main.zip",
+  "folderName": "MultiplayerSPDRN",
+  "automatic-version-check": true,
+  "version": "3c69a59",
+  "last-updated": 1785432685
+}
